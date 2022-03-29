@@ -1,8 +1,6 @@
 import pandas as pd
 import csv
 
-#filmesFile = pd.read_csv('Filmes.csv')
-
 with open('filmes.csv', mode='r') as arq:
     leitor = csv.reader(arq, delimiter=',')
     linhas = 0
@@ -10,5 +8,13 @@ with open('filmes.csv', mode='r') as arq:
         if linhas == 0:
             linhas += 1
         else:
-            print(f'{coluna[0]}, {coluna[1]}, {coluna[2]}')
-            linhas+=1
+            print(f'{coluna[0]}')
+            linhas += 1
+
+# filmesFile = pd.read_csv('filmes.csv', delimiter='')
+
+# lines = 0
+# for filme in filmesFile:
+#     print(filme)
+
+# print(filmesFile)
