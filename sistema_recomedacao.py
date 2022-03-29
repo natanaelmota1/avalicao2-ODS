@@ -22,7 +22,7 @@ def computeNearestneighbor (username, users):
 def recommend(username, users): 
     #first find nearest neighbor
     nearest = computeNearestneighbor (username, users) [0][1]
-    recommendations = []
+    recommendations = ["Recomendações", "Nota"]
     #now find bands neighbor rated that user didn't 
     neighborRatings = users[nearest]
     userRatings = users[username]
