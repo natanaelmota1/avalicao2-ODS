@@ -22,8 +22,8 @@ def computeNearestneighbor (username, users):
 def recommend(username, users): 
     #first find nearest neighbor
     nearest = computeNearestneighbor (username, users) [0][1]
-    recommendations = ["Recomendações", "Nota"]
     #now find bands neighbor rated that user didn't 
+    recommendations = []
     neighborRatings = users[nearest]
     userRatings = users[username]
     for filme in neighborRatings:
@@ -31,9 +31,11 @@ def recommend(username, users):
             if (neighborRatings[filme] >= 4):
                 recommendations.append((filme, neighborRatings[filme]))
     #using the fn sorted for variety - sort is more efficient
-    return sorted(recommendations,
+    recommendations = sorted(recommendations,
                           key=lambda filmeTuple: filmeTuple[1],
                           reverse = True)
+    recommendations.insert(0, ("Recomendações", "Nota"))
+    return recommendations
 def MovieRec(username):
     filmes = []
     usuarios = []
@@ -60,5 +62,7 @@ def MovieRec(username):
             avaliacao[filmes[i]] = round(random.uniform(1, 5), 1)
         users[usuario] = avaliacao
 
+    print(recommend(username, users))
     return (recommend(username, users))
     np.savetxt("recomendacoes.csv", recommend(username, users), delimiter =",",fmt ='% s')
+MovieRec('Evelyn da Rosa')
