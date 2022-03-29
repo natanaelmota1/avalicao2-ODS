@@ -1,6 +1,7 @@
 import csv
 import random
 import math
+import numpy as np
 
 def euclidiana(rating1, rating2):
     distance = 0
@@ -27,7 +28,8 @@ def recommend(username, users):
     userRatings = users[username]
     for filme in neighborRatings:
         if not filme in userRatings:
-            recommendations.append((filme, neighborRatings[filme]))
+            if (neighborRatings[filme] >= 4):
+                recommendations.append((filme, neighborRatings[filme]))
     #using the fn sorted for variety - sort is more efficient
     return sorted(recommendations,
                           key=lambda filmeTuple: filmeTuple[1],
@@ -60,3 +62,4 @@ for usuario in usuarios:
 
 username = 'Evelyn da Rosa'
 print(recommend(username, users))
+np.savetxt("recomendacoes.csv", recommend(username, users), delimiter =",",fmt ='% s')
