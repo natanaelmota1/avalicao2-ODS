@@ -3,7 +3,7 @@ from pywebio.output import *
 
 def main():  # PyWebIO application function
 
-    put_markdown(r""" # MovieRec """)
+    put_markdown(r""" # 🎥MovieRec """)
     put_text("Protótipo de Sistema de Recomendação de filmes")
 
     put_table([
