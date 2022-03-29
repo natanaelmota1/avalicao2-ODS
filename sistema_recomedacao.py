@@ -3,7 +3,7 @@ import csv
 
 #filmesFile = pd.read_csv('Filmes.csv')
 
-with open('Filmes.csv', mode='r') as arq:
+with open('filmes.csv', mode='r') as arq:
     leitor = csv.reader(arq, delimiter=',')
     linhas = 0
     for coluna in leitor:
