@@ -34,32 +34,31 @@ def recommend(username, users):
     return sorted(recommendations,
                           key=lambda filmeTuple: filmeTuple[1],
                           reverse = True)
+def MovieRec(username):
+    filmes = []
+    usuarios = []
 
-filmes = []
-usuarios = []
+    with open('filmes.csv', mode='r') as arq:
+        leitor = csv.reader(arq, delimiter=',')
+        for coluna in leitor:
+            filmes.append(coluna[0])
 
-with open('filmes.csv', mode='r') as arq:
-    leitor = csv.reader(arq, delimiter=',')
-    for coluna in leitor:
-        filmes.append(coluna[0])
+    with open('usuarios.csv', mode='r') as arq:
+        leitor = csv.reader(arq, delimiter=',')
+        for coluna in leitor:
+            usuarios.append(coluna[0])
 
-with open('usuarios.csv', mode='r') as arq:
-    leitor = csv.reader(arq, delimiter=',')
-    for coluna in leitor:
-        usuarios.append(coluna[0])
+    users = {}
+    for usuario in usuarios:
+        posicoes = []
+        avaliacao = {}
+        while (len(posicoes) < 20):
+            posicao = random.randint(0, 99)
+            if (posicao not in posicoes):
+                posicoes.append(posicao)
+        for i in posicoes:        
+            avaliacao[filmes[i]] = round(random.uniform(1, 5), 1)
+        users[usuario] = avaliacao
 
-users = {}
-for usuario in usuarios:
-    posicoes = []
-    avaliacao = {}
-    while (len(posicoes) < 20):
-        posicao = random.randint(0, 99)
-        if (posicao not in posicoes):
-            posicoes.append(posicao)
-    for i in posicoes:        
-        avaliacao[filmes[i]] = round(random.uniform(1, 5), 1)
-    users[usuario] = avaliacao
-
-username = 'Evelyn da Rosa'
-print(recommend(username, users))
-np.savetxt("recomendacoes.csv", recommend(username, users), delimiter =",",fmt ='% s')
+    return (recommend(username, users))
+    np.savetxt("recomendacoes.csv", recommend(username, users), delimiter =",",fmt ='% s')
