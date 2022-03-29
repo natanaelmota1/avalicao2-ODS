@@ -1,20 +1,62 @@
-import pandas as pd
 import csv
+import random
+import math
+
+def euclidiana(rating1, rating2):
+    distance = 0
+    for key in rating1:
+        if (key in rating2):
+            distance += math.pow(rating1[key] - rating2[key], 2)
+    return round(math.sqrt(distance), 1)
+
+def computeNearestneighbor (username, users):
+    distances = []
+    for user in users:
+        if user != username:
+            distance = euclidiana(users[username], users[user])
+            distances.append((distance, user))
+    distances.sort()
+    return distances
+
+def recommend(username, users): 
+    #first find nearest neighbor
+    nearest = computeNearestneighbor (username, users) [0][1]
+    recommendations = []
+    #now find bands neighbor rated that user didn't 
+    neighborRatings = users[nearest]
+    userRatings = users[username]
+    for filme in neighborRatings:
+        if not filme in userRatings:
+            recommendations.append((filme, neighborRatings[filme]))
+    #using the fn sorted for variety - sort is more efficient
+    return sorted(recommendations,
+                          key=lambda filmeTuple: filmeTuple[1],
+                          reverse = True)
+
+filmes = []
+usuarios = []
 
 with open('filmes.csv', mode='r') as arq:
     leitor = csv.reader(arq, delimiter=',')
-    linhas = 0
     for coluna in leitor:
-        if linhas == 0:
-            linhas += 1
-        else:
-            print(f'{coluna[0]}')
-            linhas += 1
+        filmes.append(coluna[0])
 
-# filmesFile = pd.read_csv('filmes.csv', delimiter='')
+with open('usuarios.csv', mode='r') as arq:
+    leitor = csv.reader(arq, delimiter=',')
+    for coluna in leitor:
+        usuarios.append(coluna[0])
 
-# lines = 0
-# for filme in filmesFile:
-#     print(filme)
+users = {}
+for usuario in usuarios:
+    posicoes = []
+    avaliacao = {}
+    while (len(posicoes) < 20):
+        posicao = random.randint(0, 99)
+        if (posicao not in posicoes):
+            posicoes.append(posicao)
+    for i in posicoes:        
+        avaliacao[filmes[i]] = round(random.uniform(1, 5), 1)
+    users[usuario] = avaliacao
 
-# print(filmesFile)
+username = 'Evelyn da Rosa'
+print(recommend(username, users))
