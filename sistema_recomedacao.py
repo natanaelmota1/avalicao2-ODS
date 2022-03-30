@@ -25,7 +25,7 @@ def recommend(username, users):
         neighborRatings = users[nearest[i][1]]
         userRatings = users[username]
         for filme in neighborRatings:
-            if not filme in userRatings and not filme in recommendations:
+            if ((filme not in userRatings) and (filme not in recommendations)):
                 if (neighborRatings[filme] >= 4):
                     recommendations.append((filme, neighborRatings[filme], nearest[i][1]))
         recommendations = sorted(recommendations,
