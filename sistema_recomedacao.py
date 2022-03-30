@@ -60,7 +60,7 @@ def MovieRec(username):
         for i in posicoes:        
             avaliacao[filmes[i]] = round(random.uniform(1, 5), 1)
         users[usuario] = avaliacao
-    print(recommend(username, users))
-    return (recommend(username, users))
+    recomendacoes = recommend(username, users)
+    return (recomendacoes[0], recomendacoes[1])
 
 MovieRec("Evelyn da Rosa")
