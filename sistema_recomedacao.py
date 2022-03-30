@@ -1,7 +1,6 @@
 import csv
 import random
 import math
-import numpy as np
 
 def euclidiana(rating1, rating2):
     distance = 0
@@ -20,21 +19,19 @@ def computeNearestneighbor (username, users):
     return distances
 
 def recommend(username, users): 
-    #first find nearest neighbor
-    nearest = computeNearestneighbor (username, users) [0][1]
-    #now find bands neighbor rated that user didn't 
+    nearest = computeNearestneighbor (username, users)
     recommendations = []
-    neighborRatings = users[nearest]
-    userRatings = users[username]
-    for filme in neighborRatings:
-        if not filme in userRatings:
-            if (neighborRatings[filme] >= 4):
-                recommendations.append((filme, neighborRatings[filme]))
-    #using the fn sorted for variety - sort is more efficient
-    recommendations = sorted(recommendations,
-                          key=lambda filmeTuple: filmeTuple[1],
-                          reverse = True)
-    recommendations.insert(0, ("Recomendações", "Nota"))
+    for i in range(3):
+        neighborRatings = users[nearest[i][1]]
+        userRatings = users[username]
+        for filme in neighborRatings:
+            if not filme in userRatings and not filme in recommendations:
+                if (neighborRatings[filme] >= 4):
+                    recommendations.append((filme, neighborRatings[filme], nearest[i][1]))
+        recommendations = sorted(recommendations,
+                            key=lambda filmeTuple: filmeTuple[1],
+                            reverse = True)
+    recommendations.insert(0, ("Recomendações", "Notas", "Usuários com gostos semelhantes"))
     return recommendations
 def MovieRec(username):
     filmes = []
@@ -61,8 +58,7 @@ def MovieRec(username):
         for i in posicoes:        
             avaliacao[filmes[i]] = round(random.uniform(1, 5), 1)
         users[usuario] = avaliacao
-
     print(recommend(username, users))
     return (recommend(username, users))
-    np.savetxt("recomendacoes.csv", recommend(username, users), delimiter =",",fmt ='% s')
-MovieRec('Evelyn da Rosa')
+
+MovieRec("Evelyn da Rosa")
