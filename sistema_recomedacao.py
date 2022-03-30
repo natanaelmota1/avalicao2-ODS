@@ -24,7 +24,7 @@ def recommend(username, users):
     kVizinhos = []
     for i in range(3):
         neighborRatings = users[nearest[i][1]]
-        kVizinhos.append((nearest[i][1]))
+        kVizinhos.append((nearest[i][1],))
         userRatings = users[username]
         for filme in neighborRatings:
             if ((filme not in userRatings) and (filme not in recommendations)):
@@ -33,7 +33,7 @@ def recommend(username, users):
         recommendations = sorted(recommendations,
                             key=lambda filmeTuple: filmeTuple[1],
                             reverse = True)
-    kVizinhos.insert(0, ("Usuários com gostos semelhantes"))
+    kVizinhos.insert(0, ("Usuários com gostos semelhantes",))
     recommendations.insert(0, ("Recomendações", "Notas"))
     return recommendations, kVizinhos
 def MovieRec(username):
