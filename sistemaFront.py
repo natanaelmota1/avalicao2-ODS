@@ -16,7 +16,7 @@ def main():  # PyWebIO application function
 
     put_markdown(r""" # 🎥MovieRec """)
     put_text("Protótipo de Sistema de Recomendação de filmes")
-    put_markdown(r"""# Olá %s , Talvez vc goste desses filmes:""" % (username),)
+    put_markdown('Olá %s , Talvez vc goste:' % (username),)
 
     put_row([
         put_table(lista[0]),
