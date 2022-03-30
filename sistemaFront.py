@@ -5,7 +5,7 @@ from sistema_recomedacao import *
 
 Users = []
 
-with open('usuarios.csv', mode='r') as arq:
+with open('usuarios.csv', mode='r', encoding='utf-8') as arq:
     leitor = csv.reader(arq, delimiter=',')
     for coluna in leitor:
         Users.append(coluna[0])
