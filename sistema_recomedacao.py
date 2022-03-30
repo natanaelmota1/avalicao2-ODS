@@ -37,12 +37,12 @@ def MovieRec(username):
     filmes = []
     usuarios = []
 
-    with open('filmes.csv', mode='r') as arq:
+    with open('filmes.csv', mode='r', encoding='utf-8') as arq:
         leitor = csv.reader(arq, delimiter=',')
         for coluna in leitor:
             filmes.append(coluna[0])
 
-    with open('usuarios.csv', mode='r') as arq:
+    with open('usuarios.csv', mode='r', encoding='utf-8') as arq:
         leitor = csv.reader(arq, delimiter=',')
         for coluna in leitor:
             usuarios.append(coluna[0])
