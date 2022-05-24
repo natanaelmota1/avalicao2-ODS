@@ -1,6 +1,6 @@
 import csv
 from pywebio import *
-from pywebio.input import TEXT, FLOAT
+from pywebio.input import TEXT, FLOAT, input_group
 from pywebio.output import *
 from sistema_recomedacao import *
 
@@ -41,8 +41,12 @@ def main():  # PyWebIO application function
     movies = []
     notas = []
     for i in range(5):
-        movie = input.select('Escolha um filme para avaliar', Movie_list)
-        nota = input.input('Qual nota você dá para esse filme? (Entre 0 e 10)', type=FLOAT, validate=limite_nota)
+        movieNota = input_group("Avaliação de Filme",[
+            input.select('Escolha um filme para avaliar', Movie_list, name="movie"),
+            input.input('Qual nota você dá para esse filme? (0 a 10)', type=FLOAT, validate=limite_nota, name="nota")
+            ])
+        movie = movieNota["movie"]
+        nota = movieNota["nota"]
         movies.append(movie)
         notas.append(nota)
     
