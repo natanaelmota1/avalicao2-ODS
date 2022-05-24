@@ -3,6 +3,7 @@ from pywebio import *
 from pywebio.input import TEXT, FLOAT, input_group
 from pywebio.output import *
 from sistema_recomedacao import *
+from pywebio.session import run_js
 
 Users = []
 Movie_list = []
@@ -60,5 +61,6 @@ def main():  # PyWebIO application function
         put_table(lista[0]),
         put_table(lista[1])
     ])
+    put_button("Reload", onclick=lambda: run_js('window.location.reload()'), color='success', outline=True)
 if __name__ == '__main__':
     start_server(main, port=80)
