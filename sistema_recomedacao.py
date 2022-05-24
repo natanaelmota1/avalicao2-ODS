@@ -45,7 +45,6 @@ def MovieRec(username, movies, notas):
     avaliacao = {}
     if (users.get(username)):
         avaliacao = users[username]
-        print(avaliacao)
 
     for i in range(len(movies)):    
         avaliacao[movies[i]] = notas[i]
