@@ -36,7 +36,7 @@ def recommend(username, users):
     kVizinhos.insert(0, ("Usuários com gostos semelhantes",))
     recommendations.insert(0, ("Recomendações", "Notas"))
     return recommendations, kVizinhos
-def MovieRec(username):
+def MovieRec(username, movie, nota):
     filmes = []
     usuarios = []
 
@@ -64,4 +64,4 @@ def MovieRec(username):
     recomendacoes = recommend(username, users)
     return (recomendacoes[0], recomendacoes[1])
 
-print(MovieRec("Evelyn da Rosa")[1])
+# print(MovieRec("Evelyn da Rosa")[1])

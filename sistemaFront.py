@@ -18,9 +18,10 @@ with open('filmes.csv', mode='r', encoding='utf-8') as arq:
 
 def main():  # PyWebIO application function
     username = input.select('Selecionar Usuário', Users)
-    lista = MovieRec(username)
-    filme = input.select('Escolha um filme para avaliar', Movie_list)
-    avaliacao = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
+    movie = input.select('Escolha um filme para avaliar', Movie_list)
+    nota = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
+    lista = MovieRec(username, movie, nota)
+
     put_markdown(r""" # 🎥MovieRec """)
     put_text("Protótipo de Sistema de Recomendação de filmes")
     put_markdown(r"""# Olá %s, talvez você goste desses filmes:""" % (username),)
