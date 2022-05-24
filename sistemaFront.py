@@ -30,16 +30,25 @@ with open('filmes.csv', mode='r', encoding='utf-8') as arq:
         Movie_list.append(coluna[0])
 
 def limite_nota(nota):
-    if nota < 0 or nota > 5:
+    if nota < 0 or nota > 10:
         return "Valor inválido"
 
 def main():  # PyWebIO application function
+    
+    #geradorAvaliacoes() -- usado para inicializar um json de usuários e notas
+    
     username = addNewUser()
-    # username = input.select('Selecionar Usuário', Users)
-    movie = input.select('Escolha um filme para avaliar', Movie_list)
-    # nota = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
-    nota = input.input('Qual nota você dá para esse filme? (Entre 0 e 5)', type=FLOAT, validate=limite_nota)
-    lista = MovieRec(username, movie, nota)
+    #username = input.select('Selecionar Usuário', Users)
+    movies = []
+    notas = []
+    for i in range(5):
+        movie = input.select('Escolha um filme para avaliar', Movie_list)
+        # nota = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
+        nota = input.input('Qual nota você dá para esse filme? (Entre 0 e 10)', type=FLOAT, validate=limite_nota)
+        movies.append(movie)
+        notas.append(nota)
+    
+    lista = MovieRec(username, movies, notas)
 
     put_markdown(r""" # 🎥MovieRec """)
     put_text("Protótipo de Sistema de Recomendação de filmes")

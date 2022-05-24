@@ -1,6 +1,7 @@
 import csv
 import random
 import math
+import json
 
 def euclidiana(rating1, rating2):
     distance = 0
@@ -22,21 +23,35 @@ def recommend(username, users):
     nearest = computeNearestneighbor (username, users)
     recommendations = []
     kVizinhos = []
-    for i in range(3):
+    for i in range(5):
         neighborRatings = users[nearest[i][1]]
         kVizinhos.append((nearest[i][1],))
         userRatings = users[username]
         for filme in neighborRatings:
             if ((filme not in userRatings) and (filme not in recommendations)):
-                if (neighborRatings[filme] >= 4):
+                if (neighborRatings[filme] >= 7):
                     recommendations.append((filme, neighborRatings[filme]))
         recommendations = sorted(recommendations,
                             key=lambda filmeTuple: filmeTuple[1],
                             reverse = True)
-    kVizinhos.insert(0, ("Usuários com gostos semelhantes",))
+    kVizinhos.insert(0, ("Seu matchs de filmes",))
     recommendations.insert(0, ("Recomendações", "Notas"))
     return recommendations, kVizinhos
-def MovieRec(username, movie, nota):
+
+def MovieRec(username, movies, notas):
+    with open('avaliacoes.json', 'r', encoding='utf-8') as json_file:
+        users = json.load(json_file)
+
+    avaliacao = {}
+    for i in range(len(movies)):    
+        avaliacao[movies[i]] = notas[i]
+        users[username] = avaliacao
+    recomendacoes = recommend(username, users)
+    with open('avaliacoes.json', 'w', encoding='utf-8') as file:
+            json.dump(users, file, ensure_ascii=False, indent=4)
+    return (recomendacoes[0], recomendacoes[1])
+
+def geradorAvaliacoes():
     filmes = []
     usuarios = []
 
@@ -59,9 +74,10 @@ def MovieRec(username, movie, nota):
             if (posicao not in posicoes):
                 posicoes.append(posicao)
         for i in posicoes:        
-            avaliacao[filmes[i]] = round(random.uniform(1, 5), 1)
+            avaliacao[filmes[i]] = random.randint(0, 10)
         users[usuario] = avaliacao
-    recomendacoes = recommend(username, users)
-    return (recomendacoes[0], recomendacoes[1])
+    
+    with open('avaliacoes.json', 'w', encoding='utf-8') as file:
+        json.dump(users, file, ensure_ascii=False, indent=4)
 
 # print(MovieRec("Evelyn da Rosa")[1])
