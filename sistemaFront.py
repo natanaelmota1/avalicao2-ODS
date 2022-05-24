@@ -35,7 +35,7 @@ def limite_nota(nota):
 
 def main():  # PyWebIO application function
     
-    geradorAvaliacoes() #-- usado para inicializar um json de usuários e notas
+    #geradorAvaliacoes() #-- usado para inicializar um json de usuários e notas
     
     username = addNewUser()
     movies = []
