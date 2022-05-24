@@ -9,11 +9,15 @@ Movie_list = []
 
 def addNewUser():
     new_user = input.input("Nome do usuário：", type=TEXT)
-    Users.append(new_user)
-    with open('usuarios.csv', 'w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        for user in Users:    
-            writer.writerow([user])
+    if new_user in Users:
+        return new_user
+    else:
+        Users.append(new_user)
+        with open('usuarios.csv', 'w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            for user in Users:    
+                writer.writerow([user])
+    return new_user
 
 with open('usuarios.csv', mode='r', encoding='utf-8') as arq:
     leitor = csv.reader(arq, delimiter=',')
@@ -26,8 +30,8 @@ with open('filmes.csv', mode='r', encoding='utf-8') as arq:
         Movie_list.append(coluna[0])
 
 def main():  # PyWebIO application function
-    addNewUser()
-    username = input.select('Selecionar Usuário', Users)
+    username = addNewUser()
+    # username = input.select('Selecionar Usuário', Users)
     movie = input.select('Escolha um filme para avaliar', Movie_list)
     nota = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
     lista = MovieRec(username, movie, nota)
