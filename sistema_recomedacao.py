@@ -34,7 +34,7 @@ def recommend(username, users):
         recommendations = sorted(recommendations,
                             key=lambda filmeTuple: filmeTuple[1],
                             reverse = True)
-    kVizinhos.insert(0, ("Seu matchs de filmes",))
+    kVizinhos.insert(0, ("Seus matchs de filmes",))
     recommendations.insert(0, ("Recomendações", "Notas"))
     return recommendations, kVizinhos
 
