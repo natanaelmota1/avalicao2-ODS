@@ -25,7 +25,7 @@ def recommend(username, users):
     kVizinhos = []
     for i in range(5):
         neighborRatings = users[nearest[i][1]]
-        kVizinhos.append((nearest[i][1],))
+        kVizinhos.append(("#{} {}".format(i+1,nearest[i][1]),))
         userRatings = users[username]
         for filme in neighborRatings:
             if ((filme not in userRatings) and (filme not in recommendations)):

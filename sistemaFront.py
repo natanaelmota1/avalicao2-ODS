@@ -35,15 +35,13 @@ def limite_nota(nota):
 
 def main():  # PyWebIO application function
     
-    #geradorAvaliacoes() -- usado para inicializar um json de usuários e notas
+    geradorAvaliacoes() #-- usado para inicializar um json de usuários e notas
     
     username = addNewUser()
-    #username = input.select('Selecionar Usuário', Users)
     movies = []
     notas = []
     for i in range(5):
         movie = input.select('Escolha um filme para avaliar', Movie_list)
-        # nota = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
         nota = input.input('Qual nota você dá para esse filme? (Entre 0 e 10)', type=FLOAT, validate=limite_nota)
         movies.append(movie)
         notas.append(nota)
