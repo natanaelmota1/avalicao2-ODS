@@ -1,6 +1,6 @@
 import csv
 from pywebio import *
-from pywebio.input import TEXT
+from pywebio.input import TEXT, FLOAT
 from pywebio.output import *
 from sistema_recomedacao import *
 
@@ -29,11 +29,16 @@ with open('filmes.csv', mode='r', encoding='utf-8') as arq:
     for coluna in leitor:
         Movie_list.append(coluna[0])
 
+def limite_nota(nota):
+    if nota < 0 or nota > 5:
+        return "Valor inválido"
+
 def main():  # PyWebIO application function
     username = addNewUser()
     # username = input.select('Selecionar Usuário', Users)
     movie = input.select('Escolha um filme para avaliar', Movie_list)
-    nota = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
+    # nota = input.select('Qual nota você dá para esse filme?', [0, 1, 2, 3, 4, 5])
+    nota = input.input('Qual nota você dá para esse filme? (Entre 0 e 5)', type=FLOAT, validate=limite_nota)
     lista = MovieRec(username, movie, nota)
 
     put_markdown(r""" # 🎥MovieRec """)
