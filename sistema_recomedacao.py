@@ -57,11 +57,13 @@ def MovieRec(username, movies, notas):
 def geradorAvaliacoes():
     filmes = []
     usuarios = []
+    generos = []
 
     with open('filmes.csv', mode='r', encoding='utf-8') as arq:
         leitor = csv.reader(arq, delimiter=',')
         for coluna in leitor:
             filmes.append(coluna[0])
+            generos.append(coluna[1])
 
     with open('usuarios.csv', mode='r', encoding='utf-8') as arq:
         leitor = csv.reader(arq, delimiter=',')
@@ -77,10 +79,13 @@ def geradorAvaliacoes():
             if (posicao not in posicoes):
                 posicoes.append(posicao)
         for i in posicoes:        
-            avaliacao[filmes[i]] = random.randint(0, 10)
+            avaliacao[filmes[i]] = random.randint(0, 10), generos[i]
+            
         users[usuario] = avaliacao
+        print(users)
     
     with open('avaliacoes.json', 'w', encoding='utf-8') as file:
         json.dump(users, file, ensure_ascii=False, indent=4)
 
 # print(MovieRec("Evelyn da Rosa")[1])
+geradorAvaliacoes()

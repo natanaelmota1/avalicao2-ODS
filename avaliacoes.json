@@ -1,442 +1,1806 @@
 {
     "Evelyn da Rosa": {
-        "Perdido em marte": 0,
-        "Batman: O Cavaleiro das Trevas Ressurge": 1,
-        "Viva: A Vida é uma Festa": 3,
-        "A grande beleza": 5,
-        "Intocáveis": 1,
-        "Shimmer Lake": 5,
-        "Missão impossível protocolo fantasma": 6,
-        "Interestelar": 4,
-        "Parasita": 3,
-        "Dois Papas": 0,
-        "Até o Último Homem": 8,
-        "1917": 5,
-        "Whiplash: Em Busca da Perfeição": 4,
-        "Klaus": 1,
-        "A Caça": 7,
-        "A rede social": 0,
-        "O outro irmão": 6,
-        "Mad Max: Estrada da Fúria": 6,
-        "Dinheiro em jogo": 6,
-        "Tangerinas": 3
+        "1917": [
+            10,
+            "Guerra"
+        ],
+        "Três anúncios para um crime": [
+            6,
+            "Drama"
+        ],
+        "Gangues de Wasseypur": [
+            8,
+            "Policial"
+        ],
+        "Shimmer Lake": [
+            5,
+            "Policial"
+        ],
+        "O Lobo de Wall Street": [
+            8,
+            "Drama"
+        ],
+        "Relatos Selvagens": [
+            9,
+            "Drama"
+        ],
+        "A ponte dos espiões": [
+            0,
+            "Drama"
+        ],
+        "Tangerinas": [
+            1,
+            "Drama"
+        ],
+        "Missão impossível protocolo fantasma": [
+            1,
+            "Aventura"
+        ],
+        "O Grande Hotel Budapeste": [
+            7,
+            "Comédia"
+        ],
+        "Coringa": [
+            6,
+            "Ficção"
+        ],
+        "O outro irmão": [
+            2,
+            "Drama"
+        ],
+        "Dois Papas": [
+            0,
+            "Drama"
+        ],
+        "Rush: No Limite da Emoção": [
+            10,
+            "Aventura"
+        ],
+        "Os Suspeitos 2013": [
+            5,
+            "Policial"
+        ],
+        "Django Livre": [
+            9,
+            "Drama"
+        ],
+        "A invenção de Hugo Cabret": [
+            0,
+            "Drama"
+        ],
+        "Neve Negra": [
+            7,
+            "Drama"
+        ],
+        "A voz do silêncio": [
+            6,
+            "Animação"
+        ],
+        "Bird box": [
+            4,
+            "Ficção"
+        ]
     },
     "Gabriela Souza": {
-        "Harry Potter e as Relíquias da Morte: Parte II ": 7,
-        "Interestelar": 4,
-        "Até o Último Homem": 2,
-        "A Caça": 8,
-        "Green book: o guia": 7,
-        "Kingsman: serviço secreto": 6,
-        "Ela": 8,
-        "Os Suspeitos 2013": 1,
-        "Homem-Aranha no Aranhaverso": 4,
-        "A ponte dos espiões": 10,
-        "Missão impossível protocolo fantasma": 7,
-        "Ad Astra": 10,
-        "La La Land: Cantando Estações": 3,
-        "Lincoln": 8,
-        "O Artista": 8,
-        "Elysuym": 7,
-        "Drive": 6,
-        "O Lobo de Wall Street": 7,
-        "Gravidade": 4,
-        "Guerreiro": 6
+        "Gangues de Wasseypur": [
+            7,
+            "Policial"
+        ],
+        "Os descendentes": [
+            5,
+            "Comédia"
+        ],
+        "Gravidade": [
+            2,
+            "Ficção"
+        ],
+        "Dunkirk": [
+            2,
+            "Guerra"
+        ],
+        "Bohemian Rhapsody": [
+            1,
+            "Drama"
+        ],
+        "Um contratempo": [
+            9,
+            "Policial"
+        ],
+        "Interestelar": [
+            2,
+            "Ficção"
+        ],
+        "Batman: O Cavaleiro das Trevas Ressurge": [
+            3,
+            "Aventura"
+        ],
+        "Birdman": [
+            1,
+            "Drama"
+        ],
+        "Django Livre": [
+            8,
+            "Drama"
+        ],
+        "Relatos Selvagens": [
+            10,
+            "Drama"
+        ],
+        "Ela": [
+            10,
+            "Ficção"
+        ],
+        "Viva: A Vida é uma Festa": [
+            4,
+            "Animação"
+        ],
+        "Harry Potter e as Relíquias da Morte: Parte II ": [
+            5,
+            "Aventura"
+        ],
+        "Vikram Vedha": [
+            8,
+            "Aventura"
+        ],
+        "O regresso": [
+            8,
+            "Aventura"
+        ],
+        "O grande Gatsby": [
+            6,
+            "Drama"
+        ],
+        "Rede de ódio": [
+            10,
+            "Drama"
+        ],
+        "Os Suspeitos 2013": [
+            1,
+            "Policial"
+        ],
+        "Desejo de matar 2018": [
+            10,
+            "Policial"
+        ]
     },
     "Mariane Lopes": {
-        "Argo": 8,
-        "Dunkirk": 0,
-        "Ford vs Ferrari": 3,
-        "Kingsman: serviço secreto": 9,
-        "Missão impossível protocolo fantasma": 8,
-        "Batman: O Cavaleiro das Trevas Ressurge": 8,
-        "A invenção de Hugo Cabret": 3,
-        "Drive": 4,
-        "O grande Gatsby": 10,
-        "Um dia difícil": 4,
-        "Elysuym": 0,
-        "Retrato de uma Jovem em Chamas": 5,
-        "Dois Papas": 5,
-        "Whiplash: Em Busca da Perfeição": 1,
-        "Órbita 9": 2,
-        "The post": 2,
-        "A voz do silêncio": 5,
-        "O destino de uma nação": 3,
-        "Até o Último Homem": 4,
-        "Os miseráveis": 6
+        "Parasita": [
+            2,
+            "Drama"
+        ],
+        "Interestelar": [
+            7,
+            "Ficção"
+        ],
+        "A chantagem": [
+            2,
+            "Policial"
+        ],
+        "Um dia perfeito": [
+            6,
+            "Guerra"
+        ],
+        "Moonlight: Sob a Luz do Luar": [
+            10,
+            "Drama"
+        ],
+        "Klaus": [
+            0,
+            "Animação"
+        ],
+        "Os descendentes": [
+            10,
+            "Comédia"
+        ],
+        "Harry Potter e as Relíquias da Morte: Parte II ": [
+            3,
+            "Aventura"
+        ],
+        "12 Anos de Escravidão": [
+            4,
+            "Drama"
+        ],
+        "O outro irmão": [
+            0,
+            "Drama"
+        ],
+        "Zootopia": [
+            4,
+            "Animação"
+        ],
+        "O Artista": [
+            3,
+            "Drama"
+        ],
+        "Dois Papas": [
+            1,
+            "Drama"
+        ],
+        "O Lobo de Wall Street": [
+            6,
+            "Drama"
+        ],
+        "Intocáveis": [
+            2,
+            "Drama"
+        ],
+        "Tangerinas": [
+            1,
+            "Drama"
+        ],
+        "Vingadores: ultimato": [
+            10,
+            "Ficção"
+        ],
+        "Django Livre": [
+            10,
+            "Drama"
+        ],
+        "O voo": [
+            8,
+            "Drama"
+        ],
+        "Green book: o guia": [
+            5,
+            "Drama"
+        ]
     },
     "Pietra da Cunha": {
-        "O grande Gatsby": 3,
-        "1917": 0,
-        "Corra!": 2,
-        "O abutre": 0,
-        "Viva: A Vida é uma Festa": 5,
-        "Argo": 7,
-        "Spotlight: Segredos Revelados": 0,
-        "A grande beleza": 2,
-        "Vingadores Guerra infinita": 5,
-        "A criada": 5,
-        "Klaus": 4,
-        "Órbita 9": 4,
-        "Um dia difícil": 10,
-        "Decisão de risco": 6,
-        "Bird box": 4,
-        "Garota Exemplar": 0,
-        "Os miseráveis": 8,
-        "Bohemian Rhapsody": 5,
-        "Os Suspeitos 2013": 0,
-        "Django Livre": 8
+        "Guerreiro": [
+            10,
+            "Drama"
+        ],
+        "O Irlandês": [
+            2,
+            "Drama"
+        ],
+        "Desejo de matar 2018": [
+            3,
+            "Policial"
+        ],
+        "Uma Aventura Lego": [
+            9,
+            "Animação"
+        ],
+        "Spotlight: Segredos Revelados": [
+            4,
+            "Drama"
+        ],
+        "Os Suspeitos 2013": [
+            10,
+            "Policial"
+        ],
+        "Homem-Aranha no Aranhaverso": [
+            4,
+            "Animação"
+        ],
+        "A voz do silêncio": [
+            10,
+            "Animação"
+        ],
+        "Três anúncios para um crime": [
+            9,
+            "Drama"
+        ],
+        "Green book: o guia": [
+            4,
+            "Drama"
+        ],
+        "Harry Potter e as Relíquias da Morte: Parte II ": [
+            3,
+            "Aventura"
+        ],
+        "Elysuym": [
+            4,
+            "Ficção"
+        ],
+        "Missão impossível protocolo fantasma": [
+            7,
+            "Aventura"
+        ],
+        "O Quarto de Jack": [
+            9,
+            "Drama"
+        ],
+        "A grande beleza": [
+            6,
+            "Drama"
+        ],
+        "Dinheiro em jogo": [
+            3,
+            "Policial"
+        ],
+        "Mad Max: Estrada da Fúria": [
+            0,
+            "Aventura"
+        ],
+        "Vikram Vedha": [
+            6,
+            "Aventura"
+        ],
+        "O outro irmão": [
+            6,
+            "Drama"
+        ],
+        "Star Wars: O Despertar da Força": [
+            3,
+            "Aventura"
+        ]
     },
     "Sr. Alexandre Lopes": {
-        "A chantagem": 3,
-        "Ford vs Ferrari": 8,
-        "Cafarnaum": 2,
-        "12 Anos de Escravidão": 4,
-        "1917": 9,
-        "A vida de Pi": 9,
-        "Gangues de Wasseypur": 0,
-        "O Artista": 2,
-        "A ponte dos espiões": 5,
-        "O regresso": 3,
-        "A Caça": 5,
-        "Klaus": 5,
-        "Harry Potter e as Relíquias da Morte: Parte II ": 4,
-        "Boyhood: Da Infância à Juventude": 5,
-        "Homem-Aranha no Aranhaverso": 2,
-        "Spotlight: Segredos Revelados": 10,
-        "A rede social": 3,
-        "Viva: A Vida é uma Festa": 8,
-        "Missão impossível protocolo fantasma": 8,
-        "Your name": 8
+        "Decisão de risco": [
+            7,
+            "Guerra"
+        ],
+        "Moonlight: Sob a Luz do Luar": [
+            1,
+            "Drama"
+        ],
+        "Gravidade": [
+            5,
+            "Ficção"
+        ],
+        "Missão impossível protocolo fantasma": [
+            4,
+            "Aventura"
+        ],
+        "A forma da água": [
+            8,
+            "Drama"
+        ],
+        "RoboCop 2014": [
+            1,
+            "Ficção"
+        ],
+        "O Grande Hotel Budapeste": [
+            7,
+            "Comédia"
+        ],
+        "Divertida Mente": [
+            3,
+            "Animação"
+        ],
+        "A chegada": [
+            5,
+            "Drama"
+        ],
+        "O Irlandês": [
+            6,
+            "Drama"
+        ],
+        "A grande beleza": [
+            6,
+            "Drama"
+        ],
+        "Tangerinas": [
+            0,
+            "Drama"
+        ],
+        "Os miseráveis": [
+            1,
+            "Drama"
+        ],
+        "Interestelar": [
+            10,
+            "Ficção"
+        ],
+        "Dinheiro em jogo": [
+            5,
+            "Policial"
+        ],
+        "Your name": [
+            10,
+            "Animação"
+        ],
+        "Relatos Selvagens": [
+            1,
+            "Drama"
+        ],
+        "Três anúncios para um crime": [
+            0,
+            "Drama"
+        ],
+        "Gangues de Wasseypur": [
+            4,
+            "Policial"
+        ],
+        "La La Land: Cantando Estações": [
+            4,
+            "Musical"
+        ]
     },
     "Dr. Pedro Pires": {
-        "RoboCop 2014": 7,
-        "A rede social": 9,
-        "Your name": 3,
-        "Decisão de risco": 5,
-        "Elysuym": 1,
-        "Neve Negra": 3,
-        "Ela": 7,
-        "12 Anos de Escravidão": 2,
-        "Parasita": 3,
-        "Vikram Vedha": 6,
-        "Divertida Mente": 2,
-        "Retrato de uma Jovem em Chamas": 2,
-        "Coringa": 2,
-        "Ford vs Ferrari": 7,
-        "O Artista": 3,
-        "A grande beleza": 7,
-        "A chantagem": 10,
-        "Kingsman: serviço secreto": 1,
-        "Viva: A Vida é uma Festa": 10,
-        "Perdido em marte": 8
+        "Órbita 9": [
+            3,
+            "Ficção"
+        ],
+        "Homem-Aranha no Aranhaverso": [
+            9,
+            "Animação"
+        ],
+        "Rede de ódio": [
+            3,
+            "Drama"
+        ],
+        "Dunkirk": [
+            8,
+            "Guerra"
+        ],
+        "Mad Max: Estrada da Fúria": [
+            5,
+            "Aventura"
+        ],
+        "A origem": [
+            4,
+            "Aventura"
+        ],
+        "Corra!": [
+            4,
+            "Terror"
+        ],
+        "Guerreiro": [
+            2,
+            "Drama"
+        ],
+        "O destino de uma nação": [
+            9,
+            "Guerra"
+        ],
+        "Drive": [
+            6,
+            "Drama"
+        ],
+        "Os Suspeitos 2013": [
+            0,
+            "Policial"
+        ],
+        "A criada": [
+            7,
+            "Drama"
+        ],
+        "O outro irmão": [
+            3,
+            "Drama"
+        ],
+        "Um dia perfeito": [
+            1,
+            "Guerra"
+        ],
+        "Gangues de Wasseypur": [
+            6,
+            "Policial"
+        ],
+        "A chantagem": [
+            2,
+            "Policial"
+        ],
+        "RoboCop 2014": [
+            0,
+            "Ficção"
+        ],
+        "Klaus": [
+            10,
+            "Animação"
+        ],
+        "Tangerinas": [
+            2,
+            "Drama"
+        ],
+        "Kingsman: serviço secreto": [
+            1,
+            "Ação"
+        ]
     },
     "Sra. Sarah Alves": {
-        "Spotlight: Segredos Revelados": 2,
-        "O regresso": 10,
-        "Your name": 6,
-        "O voo": 4,
-        "A chantagem": 5,
-        "Os descendentes": 4,
-        "Batman: O Cavaleiro das Trevas Ressurge": 7,
-        "Relatos Selvagens": 3,
-        "A criada": 6,
-        "Bohemian Rhapsody": 2,
-        "Harry Potter e as Relíquias da Morte: Parte II ": 6,
-        "Cafarnaum": 4,
-        "007 Operação Skyfall": 8,
-        "Tangerinas": 2,
-        "Intocáveis": 2,
-        "Parasita": 0,
-        "Guerreiro": 6,
-        "Birdman": 3,
-        "A ponte dos espiões": 9,
-        "RoboCop 2014": 7
+        "Homem-Aranha no Aranhaverso": [
+            3,
+            "Animação"
+        ],
+        "O voo": [
+            9,
+            "Drama"
+        ],
+        "Relatos Selvagens": [
+            3,
+            "Drama"
+        ],
+        "O destino de uma nação": [
+            6,
+            "Guerra"
+        ],
+        "Django Livre": [
+            8,
+            "Drama"
+        ],
+        "A criada": [
+            7,
+            "Drama"
+        ],
+        "Ford vs Ferrari": [
+            1,
+            "Aventura"
+        ],
+        "Um contratempo": [
+            2,
+            "Policial"
+        ],
+        "Órbita 9": [
+            4,
+            "Ficção"
+        ],
+        "A rede social": [
+            2,
+            "Drama"
+        ],
+        "O outro irmão": [
+            0,
+            "Drama"
+        ],
+        "O abutre": [
+            2,
+            "Drama"
+        ],
+        "Klaus": [
+            6,
+            "Animação"
+        ],
+        "Star Wars: O Despertar da Força": [
+            0,
+            "Aventura"
+        ],
+        "Vingadores Guerra infinita": [
+            4,
+            "Ficção"
+        ],
+        "Os descendentes": [
+            7,
+            "Comédia"
+        ],
+        "Green book: o guia": [
+            2,
+            "Drama"
+        ],
+        "The post": [
+            3,
+            "Drama"
+        ],
+        "Kingsman: serviço secreto": [
+            3,
+            "Ação"
+        ],
+        "Um dia perfeito": [
+            9,
+            "Guerra"
+        ]
     },
     "Clara Aragão": {
-        "Garota Exemplar": 1,
-        "Rede de ódio": 9,
-        "Coringa": 7,
-        "La La Land: Cantando Estações": 2,
-        "Decisão de risco": 10,
-        "Bohemian Rhapsody": 2,
-        "A chegada": 3,
-        "O Artista": 5,
-        "Your name": 10,
-        "A chantagem": 1,
-        "Os Suspeitos 2013": 2,
-        "Relatos Selvagens": 7,
-        "Um dia difícil": 10,
-        "Órbita 9": 5,
-        "Batman: O Cavaleiro das Trevas Ressurge": 1,
-        "Cafarnaum": 10,
-        "Dinheiro em jogo": 4,
-        "Star Wars: O Despertar da Força": 4,
-        "Vikram Vedha": 9,
-        "O regresso": 0
+        "Logan": [
+            3,
+            "Aventura"
+        ],
+        "Dangal": [
+            1,
+            "Drama"
+        ],
+        "O destino de uma nação": [
+            4,
+            "Guerra"
+        ],
+        "Parasita": [
+            5,
+            "Drama"
+        ],
+        "A invenção de Hugo Cabret": [
+            5,
+            "Drama"
+        ],
+        "Os Suspeitos 2013": [
+            1,
+            "Policial"
+        ],
+        "RoboCop 2014": [
+            3,
+            "Ficção"
+        ],
+        "Gravidade": [
+            4,
+            "Ficção"
+        ],
+        "O Artista": [
+            1,
+            "Drama"
+        ],
+        "A criada": [
+            0,
+            "Drama"
+        ],
+        "A voz do silêncio": [
+            5,
+            "Animação"
+        ],
+        "Desejo de matar 2018": [
+            0,
+            "Policial"
+        ],
+        "Decisão de risco": [
+            5,
+            "Guerra"
+        ],
+        "O regresso": [
+            6,
+            "Aventura"
+        ],
+        "Tangerinas": [
+            9,
+            "Drama"
+        ],
+        "Um dia difícil": [
+            0,
+            "Policial"
+        ],
+        "Vingadores Guerra infinita": [
+            6,
+            "Ficção"
+        ],
+        "Uma Aventura Lego": [
+            9,
+            "Animação"
+        ],
+        "Mad Max: Estrada da Fúria": [
+            5,
+            "Aventura"
+        ],
+        "No fim do túnel": [
+            5,
+            "Drama"
+        ]
     },
     "Breno Fogaça": {
-        "A forma da água": 10,
-        "Tangerinas": 10,
-        "Kingsman: serviço secreto": 3,
-        "O Quarto de Jack": 1,
-        "Ex-Machina: Instinto Artificial": 9,
-        "Roma": 5,
-        "Neve Negra": 5,
-        "Dangal": 8,
-        "Perdido em marte": 8,
-        "O Irlandês": 1,
-        "Green book: o guia": 2,
-        "A invenção de Hugo Cabret": 0,
-        "Uma Aventura Lego": 6,
-        "Argo": 1,
-        "Um dia difícil": 2,
-        "Homem-Aranha no Aranhaverso": 8,
-        "A ponte dos espiões": 9,
-        "Elysuym": 1,
-        "O Artista": 0,
-        "Cafarnaum": 3
+        "Zootopia": [
+            4,
+            "Animação"
+        ],
+        "Dunkirk": [
+            7,
+            "Guerra"
+        ],
+        "A rede social": [
+            4,
+            "Drama"
+        ],
+        "Ex-Machina: Instinto Artificial": [
+            2,
+            "Drama"
+        ],
+        "A grande beleza": [
+            5,
+            "Drama"
+        ],
+        "A Caça": [
+            9,
+            "Drama"
+        ],
+        "Coringa": [
+            10,
+            "Ficção"
+        ],
+        "Boyhood: Da Infância à Juventude": [
+            1,
+            "Drama"
+        ],
+        "O abutre": [
+            5,
+            "Drama"
+        ],
+        "Três anúncios para um crime": [
+            0,
+            "Drama"
+        ],
+        "Django Livre": [
+            5,
+            "Drama"
+        ],
+        "O Grande Hotel Budapeste": [
+            5,
+            "Comédia"
+        ],
+        "Roma": [
+            4,
+            "Drama"
+        ],
+        "Decisão de risco": [
+            5,
+            "Guerra"
+        ],
+        "Assassinato às Cegas": [
+            10,
+            "Policial"
+        ],
+        "A criada": [
+            1,
+            "Drama"
+        ],
+        "Vingadores: ultimato": [
+            8,
+            "Ficção"
+        ],
+        "Shimmer Lake": [
+            1,
+            "Policial"
+        ],
+        "Whiplash: Em Busca da Perfeição": [
+            10,
+            "Drama"
+        ],
+        "Intocáveis": [
+            7,
+            "Drama"
+        ]
     },
     "Dr. João Lucas Lopes": {
-        "A criada": 2,
-        "007 Operação Skyfall": 8,
-        "Ex-Machina: Instinto Artificial": 1,
-        "1917": 7,
-        "Três anúncios para um crime": 9,
-        "Green book: o guia": 7,
-        "Cafarnaum": 5,
-        "Whiplash: Em Busca da Perfeição": 5,
-        "Gravidade": 10,
-        "Intocáveis": 7,
-        "Tangerinas": 4,
-        "Bird box": 4,
-        "Um dia perfeito": 7,
-        "Batman: O Cavaleiro das Trevas Ressurge": 2,
-        "A forma da água": 10,
-        "A Separação": 4,
-        "O abutre": 9,
-        "A vida de Pi": 7,
-        "Klaus": 3,
-        "Coringa": 5
+        "Gangues de Wasseypur": [
+            8,
+            "Policial"
+        ],
+        "Ad Astra": [
+            5,
+            "Ficção"
+        ],
+        "O destino de uma nação": [
+            4,
+            "Guerra"
+        ],
+        "Vingadores Guerra infinita": [
+            3,
+            "Ficção"
+        ],
+        "Intocáveis": [
+            8,
+            "Drama"
+        ],
+        "Os miseráveis": [
+            8,
+            "Drama"
+        ],
+        "Cafarnaum": [
+            9,
+            "Drama"
+        ],
+        "La La Land: Cantando Estações": [
+            3,
+            "Musical"
+        ],
+        "O Quarto de Jack": [
+            8,
+            "Drama"
+        ],
+        "Shimmer Lake": [
+            6,
+            "Policial"
+        ],
+        "Zootopia": [
+            10,
+            "Animação"
+        ],
+        "Corra!": [
+            8,
+            "Terror"
+        ],
+        "Homem-Aranha no Aranhaverso": [
+            1,
+            "Animação"
+        ],
+        "O regresso": [
+            8,
+            "Aventura"
+        ],
+        "The post": [
+            5,
+            "Drama"
+        ],
+        "Neve Negra": [
+            4,
+            "Drama"
+        ],
+        "Dunkirk": [
+            8,
+            "Guerra"
+        ],
+        "Logan": [
+            3,
+            "Aventura"
+        ],
+        "Django Livre": [
+            5,
+            "Drama"
+        ],
+        "Argo": [
+            4,
+            "Drama"
+        ]
     },
     "Melissa Rocha": {
-        "Ad Astra": 9,
-        "Órbita 9": 10,
-        "La La Land: Cantando Estações": 0,
-        "Intocáveis": 0,
-        "Um dia difícil": 5,
-        "Relatos Selvagens": 9,
-        "A chegada": 5,
-        "RoboCop 2014": 7,
-        "Retrato de uma Jovem em Chamas": 9,
-        "Your name": 5,
-        "O Irlandês": 8,
-        "Dunkirk": 8,
-        "Lincoln": 0,
-        "Django Livre": 6,
-        "Zootopia": 6,
-        "Shimmer Lake": 2,
-        "Vingadores: ultimato": 2,
-        "Ex-Machina: Instinto Artificial": 9,
-        "Moonlight: Sob a Luz do Luar": 8,
-        "Viva: A Vida é uma Festa": 9
+        "O regresso": [
+            5,
+            "Aventura"
+        ],
+        "Moonlight: Sob a Luz do Luar": [
+            8,
+            "Drama"
+        ],
+        "Órbita 9": [
+            8,
+            "Ficção"
+        ],
+        "Mad Max: Estrada da Fúria": [
+            5,
+            "Aventura"
+        ],
+        "Spotlight: Segredos Revelados": [
+            0,
+            "Drama"
+        ],
+        "O Artista": [
+            4,
+            "Drama"
+        ],
+        "O Irlandês": [
+            3,
+            "Drama"
+        ],
+        "Roma": [
+            1,
+            "Drama"
+        ],
+        "12 Anos de Escravidão": [
+            2,
+            "Drama"
+        ],
+        "A grande beleza": [
+            1,
+            "Drama"
+        ],
+        "Vikram Vedha": [
+            5,
+            "Aventura"
+        ],
+        "Klaus": [
+            0,
+            "Animação"
+        ],
+        "Tangerinas": [
+            1,
+            "Drama"
+        ],
+        "Ela": [
+            1,
+            "Ficção"
+        ],
+        "Kingsman: serviço secreto": [
+            1,
+            "Ação"
+        ],
+        "O outro irmão": [
+            1,
+            "Drama"
+        ],
+        "Boyhood: Da Infância à Juventude": [
+            5,
+            "Drama"
+        ],
+        "Gangues de Wasseypur": [
+            7,
+            "Policial"
+        ],
+        "Decisão de risco": [
+            0,
+            "Guerra"
+        ],
+        "Gravidade": [
+            9,
+            "Ficção"
+        ]
     },
     "Rodrigo Caldeira": {
-        "Cafarnaum": 5,
-        "Zootopia": 2,
-        "Um dia perfeito": 6,
-        "Gravidade": 6,
-        "Ford vs Ferrari": 9,
-        "Até o Último Homem": 2,
-        "A Separação": 3,
-        "O regresso": 7,
-        "1917": 5,
-        "Kingsman: serviço secreto": 3,
-        "Lincoln": 8,
-        "O destino de uma nação": 1,
-        "Elysuym": 9,
-        "Garota Exemplar": 2,
-        "A rede social": 0,
-        "Os miseráveis": 5,
-        "Gangues de Wasseypur": 10,
-        "Klaus": 0,
-        "Guerreiro": 10,
-        "Batman: O Cavaleiro das Trevas Ressurge": 6
+        "Um contratempo": [
+            5,
+            "Policial"
+        ],
+        "Neve Negra": [
+            0,
+            "Drama"
+        ],
+        "Gangues de Wasseypur": [
+            10,
+            "Policial"
+        ],
+        "A chegada": [
+            2,
+            "Drama"
+        ],
+        "O Grande Hotel Budapeste": [
+            8,
+            "Comédia"
+        ],
+        "Logan": [
+            8,
+            "Aventura"
+        ],
+        "Harry Potter e as Relíquias da Morte: Parte II ": [
+            2,
+            "Aventura"
+        ],
+        "A voz do silêncio": [
+            7,
+            "Animação"
+        ],
+        "O grande Gatsby": [
+            3,
+            "Drama"
+        ],
+        "Your name": [
+            9,
+            "Animação"
+        ],
+        "Tangerinas": [
+            1,
+            "Drama"
+        ],
+        "Argo": [
+            9,
+            "Drama"
+        ],
+        "A Separação": [
+            8,
+            "Drama"
+        ],
+        "O outro irmão": [
+            7,
+            "Drama"
+        ],
+        "A Caça": [
+            4,
+            "Drama"
+        ],
+        "12 Anos de Escravidão": [
+            7,
+            "Drama"
+        ],
+        "A criada": [
+            9,
+            "Drama"
+        ],
+        "Rush: No Limite da Emoção": [
+            9,
+            "Aventura"
+        ],
+        "Desejo de matar 2018": [
+            5,
+            "Policial"
+        ],
+        "Guerreiro": [
+            7,
+            "Drama"
+        ]
     },
     "Alexandre Moura": {
-        "A vida de Pi": 1,
-        "A ponte dos espiões": 3,
-        "Guerreiro": 1,
-        "Corra!": 9,
-        "Shimmer Lake": 2,
-        "Rede de ódio": 10,
-        "La La Land: Cantando Estações": 0,
-        "Homem-Aranha no Aranhaverso": 0,
-        "O Quarto de Jack": 6,
-        "A invenção de Hugo Cabret": 6,
-        "Star Wars: O Despertar da Força": 10,
-        "Green book: o guia": 8,
-        "Desejo de matar 2018": 5,
-        "Neve Negra": 0,
-        "A origem": 6,
-        "Os descendentes": 5,
-        "Dunkirk": 4,
-        "Um dia perfeito": 6,
-        "Roma": 10,
-        "Vingadores: ultimato": 1
+        "Harry Potter e as Relíquias da Morte: Parte II ": [
+            5,
+            "Aventura"
+        ],
+        "Até o Último Homem": [
+            5,
+            "Drama"
+        ],
+        "Um dia difícil": [
+            1,
+            "Policial"
+        ],
+        "Elysuym": [
+            5,
+            "Ficção"
+        ],
+        "Green book: o guia": [
+            7,
+            "Drama"
+        ],
+        "O outro irmão": [
+            1,
+            "Drama"
+        ],
+        "Bohemian Rhapsody": [
+            4,
+            "Drama"
+        ],
+        "A Separação": [
+            7,
+            "Drama"
+        ],
+        "O Artista": [
+            2,
+            "Drama"
+        ],
+        "Dinheiro em jogo": [
+            0,
+            "Policial"
+        ],
+        "Spotlight: Segredos Revelados": [
+            9,
+            "Drama"
+        ],
+        "O Lobo de Wall Street": [
+            3,
+            "Drama"
+        ],
+        "A forma da água": [
+            10,
+            "Drama"
+        ],
+        "Vingadores Guerra infinita": [
+            9,
+            "Ficção"
+        ],
+        "O Grande Hotel Budapeste": [
+            7,
+            "Comédia"
+        ],
+        "Divertida Mente": [
+            7,
+            "Animação"
+        ],
+        "A ponte dos espiões": [
+            2,
+            "Drama"
+        ],
+        "Argo": [
+            9,
+            "Drama"
+        ],
+        "Vikram Vedha": [
+            10,
+            "Aventura"
+        ],
+        "Dangal": [
+            1,
+            "Drama"
+        ]
     },
     "Sra. Valentina Costela": {
-        "Ex-Machina: Instinto Artificial": 8,
-        "A Separação": 6,
-        "Gangues de Wasseypur": 6,
-        "Homem-Aranha no Aranhaverso": 6,
-        "Um contratempo": 10,
-        "Decisão de risco": 9,
-        "Assassinato às Cegas": 3,
-        "Rede de ódio": 2,
-        "Um dia difícil": 1,
-        "Parasita": 3,
-        "Roma": 0,
-        "Bohemian Rhapsody": 8,
-        "A Caça": 8,
-        "Harry Potter e as Relíquias da Morte: Parte II ": 4,
-        "O abutre": 4,
-        "O Grande Hotel Budapeste": 1,
-        "O Irlandês": 9,
-        "Missão impossível protocolo fantasma": 9,
-        "Whiplash: Em Busca da Perfeição": 5,
-        "A chegada": 9
+        "Divertida Mente": [
+            2,
+            "Animação"
+        ],
+        "O grande Gatsby": [
+            10,
+            "Drama"
+        ],
+        "A chantagem": [
+            0,
+            "Policial"
+        ],
+        "A Caça": [
+            6,
+            "Drama"
+        ],
+        "The post": [
+            7,
+            "Drama"
+        ],
+        "Os descendentes": [
+            10,
+            "Comédia"
+        ],
+        "O Irlandês": [
+            3,
+            "Drama"
+        ],
+        "Coringa": [
+            0,
+            "Ficção"
+        ],
+        "Gangues de Wasseypur": [
+            1,
+            "Policial"
+        ],
+        "O destino de uma nação": [
+            8,
+            "Guerra"
+        ],
+        "1917": [
+            9,
+            "Guerra"
+        ],
+        "A grande beleza": [
+            3,
+            "Drama"
+        ],
+        "Green book: o guia": [
+            2,
+            "Drama"
+        ],
+        "Zootopia": [
+            0,
+            "Animação"
+        ],
+        "Bohemian Rhapsody": [
+            4,
+            "Drama"
+        ],
+        "Até o Último Homem": [
+            10,
+            "Drama"
+        ],
+        "O Lobo de Wall Street": [
+            1,
+            "Drama"
+        ],
+        "O outro irmão": [
+            0,
+            "Drama"
+        ],
+        "Vikram Vedha": [
+            8,
+            "Aventura"
+        ],
+        "A forma da água": [
+            7,
+            "Drama"
+        ]
     },
     "Sra. Eloah Castro": {
-        "Retrato de uma Jovem em Chamas": 7,
-        "Uma Aventura Lego": 1,
-        "O grande Gatsby": 5,
-        "Perdido em marte": 2,
-        "Os Suspeitos 2013": 5,
-        "O outro irmão": 6,
-        "Harry Potter e as Relíquias da Morte: Parte II ": 5,
-        "A chegada": 5,
-        "Desejo de matar 2018": 10,
-        "Zootopia": 6,
-        "Um dia difícil": 7,
-        "Whiplash: Em Busca da Perfeição": 7,
-        "Gangues de Wasseypur": 4,
-        "Mad Max: Estrada da Fúria": 2,
-        "Birdman": 7,
-        "O Irlandês": 3,
-        "Elysuym": 1,
-        "Dangal": 5,
-        "Drive": 1,
-        "No fim do túnel": 7
+        "Relatos Selvagens": [
+            4,
+            "Drama"
+        ],
+        "Neve Negra": [
+            7,
+            "Drama"
+        ],
+        "Os miseráveis": [
+            9,
+            "Drama"
+        ],
+        "Os Suspeitos 2013": [
+            3,
+            "Policial"
+        ],
+        "Vingadores: ultimato": [
+            7,
+            "Ficção"
+        ],
+        "Divertida Mente": [
+            7,
+            "Animação"
+        ],
+        "Green book: o guia": [
+            1,
+            "Drama"
+        ],
+        "Cafarnaum": [
+            10,
+            "Drama"
+        ],
+        "Interestelar": [
+            2,
+            "Ficção"
+        ],
+        "Drive": [
+            2,
+            "Drama"
+        ],
+        "Rede de ódio": [
+            3,
+            "Drama"
+        ],
+        "A chantagem": [
+            1,
+            "Policial"
+        ],
+        "Ford vs Ferrari": [
+            8,
+            "Aventura"
+        ],
+        "Spotlight: Segredos Revelados": [
+            1,
+            "Drama"
+        ],
+        "Lincoln": [
+            5,
+            "Drama"
+        ],
+        "Argo": [
+            3,
+            "Drama"
+        ],
+        "La La Land: Cantando Estações": [
+            7,
+            "Musical"
+        ],
+        "O grande Gatsby": [
+            3,
+            "Drama"
+        ],
+        "Dunkirk": [
+            8,
+            "Guerra"
+        ],
+        "O abutre": [
+            6,
+            "Drama"
+        ]
     },
     "Thales Peixoto": {
-        "A origem": 5,
-        "Missão impossível protocolo fantasma": 6,
-        "Drive": 1,
-        "O Artista": 5,
-        "Órbita 9": 2,
-        "Ford vs Ferrari": 1,
-        "O Irlandês": 5,
-        "A vida de Pi": 9,
-        "O voo": 6,
-        "A rede social": 3,
-        "Interestelar": 10,
-        "Divertida Mente": 2,
-        "O Lobo de Wall Street": 3,
-        "Os descendentes": 3,
-        "Garota Exemplar": 1,
-        "Whiplash: Em Busca da Perfeição": 5,
-        "Coringa": 10,
-        "Intocáveis": 1,
-        "The post": 0,
-        "Perdido em marte": 5
+        "Retrato de uma Jovem em Chamas": [
+            2,
+            "Drama"
+        ],
+        "Elysuym": [
+            9,
+            "Ficção"
+        ],
+        "Um dia perfeito": [
+            5,
+            "Guerra"
+        ],
+        "Your name": [
+            7,
+            "Animação"
+        ],
+        "1917": [
+            10,
+            "Guerra"
+        ],
+        "O grande Gatsby": [
+            5,
+            "Drama"
+        ],
+        "A voz do silêncio": [
+            2,
+            "Animação"
+        ],
+        "Viva: A Vida é uma Festa": [
+            3,
+            "Animação"
+        ],
+        "Cafarnaum": [
+            8,
+            "Drama"
+        ],
+        "Guerreiro": [
+            5,
+            "Drama"
+        ],
+        "Dangal": [
+            3,
+            "Drama"
+        ],
+        "Lincoln": [
+            10,
+            "Drama"
+        ],
+        "O outro irmão": [
+            7,
+            "Drama"
+        ],
+        "Vingadores Guerra infinita": [
+            10,
+            "Ficção"
+        ],
+        "Rede de ódio": [
+            9,
+            "Drama"
+        ],
+        "O Lobo de Wall Street": [
+            2,
+            "Drama"
+        ],
+        "Whiplash: Em Busca da Perfeição": [
+            1,
+            "Drama"
+        ],
+        "O Artista": [
+            4,
+            "Drama"
+        ],
+        "Interestelar": [
+            8,
+            "Ficção"
+        ],
+        "12 Anos de Escravidão": [
+            10,
+            "Drama"
+        ]
     },
     "Maria Vitória Freitas": {
-        "A vida de Pi": 2,
-        "O Irlandês": 8,
-        "A Caça": 8,
-        "007 Operação Skyfall": 9,
-        "12 Anos de Escravidão": 0,
-        "Relatos Selvagens": 1,
-        "O Grande Hotel Budapeste": 1,
-        "Guerreiro": 8,
-        "RoboCop 2014": 10,
-        "Harry Potter e as Relíquias da Morte: Parte II ": 1,
-        "Lincoln": 0,
-        "Intocáveis": 7,
-        "O regresso": 10,
-        "Os Suspeitos 2013": 5,
-        "Os miseráveis": 1,
-        "Ford vs Ferrari": 0,
-        "Divertida Mente": 10,
-        "Cafarnaum": 1,
-        "Corra!": 8,
-        "Tangerinas": 7
+        "Boyhood: Da Infância à Juventude": [
+            1,
+            "Drama"
+        ],
+        "Klaus": [
+            3,
+            "Animação"
+        ],
+        "Star Wars: O Despertar da Força": [
+            9,
+            "Aventura"
+        ],
+        "Intocáveis": [
+            4,
+            "Drama"
+        ],
+        "Dunkirk": [
+            0,
+            "Guerra"
+        ],
+        "No fim do túnel": [
+            2,
+            "Drama"
+        ],
+        "Gangues de Wasseypur": [
+            5,
+            "Policial"
+        ],
+        "O outro irmão": [
+            2,
+            "Drama"
+        ],
+        "Homem-Aranha no Aranhaverso": [
+            1,
+            "Animação"
+        ],
+        "Whiplash: Em Busca da Perfeição": [
+            10,
+            "Drama"
+        ],
+        "Moonlight: Sob a Luz do Luar": [
+            7,
+            "Drama"
+        ],
+        "Gravidade": [
+            5,
+            "Ficção"
+        ],
+        "A Caça": [
+            8,
+            "Drama"
+        ],
+        "Rush: No Limite da Emoção": [
+            1,
+            "Aventura"
+        ],
+        "Green book: o guia": [
+            6,
+            "Drama"
+        ],
+        "A forma da água": [
+            2,
+            "Drama"
+        ],
+        "Perdido em marte": [
+            0,
+            "Ficção"
+        ],
+        "Retrato de uma Jovem em Chamas": [
+            4,
+            "Drama"
+        ],
+        "Batman: O Cavaleiro das Trevas Ressurge": [
+            2,
+            "Aventura"
+        ],
+        "Zootopia": [
+            7,
+            "Animação"
+        ]
     },
     "Yago Fogaça": {
-        "Parasita": 4,
-        "Garota Exemplar": 3,
-        "Corra!": 7,
-        "Birdman": 5,
-        "Vingadores: ultimato": 5,
-        "Bohemian Rhapsody": 9,
-        "Um contratempo": 9,
-        "RoboCop 2014": 5,
-        "Your name": 10,
-        "Até o Último Homem": 0,
-        "Star Wars: O Despertar da Força": 8,
-        "Kingsman: serviço secreto": 8,
-        "The post": 6,
-        "Moonlight: Sob a Luz do Luar": 9,
-        "12 Anos de Escravidão": 0,
-        "Dinheiro em jogo": 4,
-        "A origem": 3,
-        "Perdido em marte": 6,
-        "Roma": 4,
-        "Klaus": 8
+        "Assassinato às Cegas": [
+            4,
+            "Policial"
+        ],
+        "Dois Papas": [
+            7,
+            "Drama"
+        ],
+        "O Lobo de Wall Street": [
+            2,
+            "Drama"
+        ],
+        "12 Anos de Escravidão": [
+            4,
+            "Drama"
+        ],
+        "Decisão de risco": [
+            9,
+            "Guerra"
+        ],
+        "Bohemian Rhapsody": [
+            9,
+            "Drama"
+        ],
+        "Rede de ódio": [
+            1,
+            "Drama"
+        ],
+        "Kingsman: serviço secreto": [
+            7,
+            "Ação"
+        ],
+        "Whiplash: Em Busca da Perfeição": [
+            0,
+            "Drama"
+        ],
+        "A invenção de Hugo Cabret": [
+            3,
+            "Drama"
+        ],
+        "Homem-Aranha no Aranhaverso": [
+            0,
+            "Animação"
+        ],
+        "Harry Potter e as Relíquias da Morte: Parte II ": [
+            10,
+            "Aventura"
+        ],
+        "Django Livre": [
+            9,
+            "Drama"
+        ],
+        "Dinheiro em jogo": [
+            7,
+            "Policial"
+        ],
+        "A grande beleza": [
+            10,
+            "Drama"
+        ],
+        "Elysuym": [
+            2,
+            "Ficção"
+        ],
+        "Spotlight: Segredos Revelados": [
+            10,
+            "Drama"
+        ],
+        "Uma Aventura Lego": [
+            7,
+            "Animação"
+        ],
+        "Missão impossível protocolo fantasma": [
+            2,
+            "Aventura"
+        ],
+        "007 Operação Skyfall": [
+            8,
+            "Aventura"
+        ]
     },
     "Maria Clara Gomes": {
-        "Corra!": 7,
-        "A criada": 0,
-        "Gravidade": 8,
-        "1917": 10,
-        "Argo": 4,
-        "Dois Papas": 9,
-        "Um dia difícil": 3,
-        "Roma": 10,
-        "Harry Potter e as Relíquias da Morte: Parte II ": 10,
-        "Birdman": 1,
-        "Homem-Aranha no Aranhaverso": 1,
-        "Os descendentes": 3,
-        "O Quarto de Jack": 5,
-        "Shimmer Lake": 7,
-        "Django Livre": 4,
-        "Uma Aventura Lego": 3,
-        "Batman: O Cavaleiro das Trevas Ressurge": 3,
-        "Kingsman: serviço secreto": 8,
-        "Vingadores Guerra infinita": 1,
-        "Os Suspeitos 2013": 2
+        "Coringa": [
+            7,
+            "Ficção"
+        ],
+        "A invenção de Hugo Cabret": [
+            3,
+            "Drama"
+        ],
+        "Rush: No Limite da Emoção": [
+            7,
+            "Aventura"
+        ],
+        "Star Wars: O Despertar da Força": [
+            3,
+            "Aventura"
+        ],
+        "Vikram Vedha": [
+            6,
+            "Aventura"
+        ],
+        "Roma": [
+            6,
+            "Drama"
+        ],
+        "Shimmer Lake": [
+            0,
+            "Policial"
+        ],
+        "Órbita 9": [
+            5,
+            "Ficção"
+        ],
+        "O Artista": [
+            3,
+            "Drama"
+        ],
+        "Django Livre": [
+            6,
+            "Drama"
+        ],
+        "Lincoln": [
+            1,
+            "Drama"
+        ],
+        "007 Operação Skyfall": [
+            3,
+            "Aventura"
+        ],
+        "Zootopia": [
+            0,
+            "Animação"
+        ],
+        "Boyhood: Da Infância à Juventude": [
+            5,
+            "Drama"
+        ],
+        "Dunkirk": [
+            7,
+            "Guerra"
+        ],
+        "A origem": [
+            4,
+            "Aventura"
+        ],
+        "Viva: A Vida é uma Festa": [
+            9,
+            "Animação"
+        ],
+        "Elysuym": [
+            9,
+            "Ficção"
+        ],
+        "Corra!": [
+            3,
+            "Terror"
+        ],
+        "1917": [
+            9,
+            "Guerra"
+        ]
     },
     "Dr. Theo Ramos": {
-        "O grande Gatsby": 10,
-        "RoboCop 2014": 8,
-        "Órbita 9": 6,
-        "O Irlandês": 4,
-        "A vida de Pi": 1,
-        "A grande beleza": 1,
-        "Drive": 10,
-        "Divertida Mente": 9,
-        "O outro irmão": 10,
-        "Harry Potter e as Relíquias da Morte: Parte II ": 6,
-        "Your name": 6,
-        "O voo": 3,
-        "Dangal": 4,
-        "Rush: No Limite da Emoção": 7,
-        "Vingadores: ultimato": 3,
-        "Desejo de matar 2018": 6,
-        "Os miseráveis": 5,
-        "A ponte dos espiões": 9,
-        "Guerreiro": 9,
-        "Spotlight: Segredos Revelados": 5
+        "La La Land: Cantando Estações": [
+            10,
+            "Musical"
+        ],
+        "Decisão de risco": [
+            0,
+            "Guerra"
+        ],
+        "Divertida Mente": [
+            2,
+            "Animação"
+        ],
+        "RoboCop 2014": [
+            3,
+            "Ficção"
+        ],
+        "O destino de uma nação": [
+            9,
+            "Guerra"
+        ],
+        "Star Wars: O Despertar da Força": [
+            4,
+            "Aventura"
+        ],
+        "Lincoln": [
+            3,
+            "Drama"
+        ],
+        "Coringa": [
+            0,
+            "Ficção"
+        ],
+        "Assassinato às Cegas": [
+            6,
+            "Policial"
+        ],
+        "Até o Último Homem": [
+            1,
+            "Drama"
+        ],
+        "Kingsman: serviço secreto": [
+            3,
+            "Ação"
+        ],
+        "Shimmer Lake": [
+            10,
+            "Policial"
+        ],
+        "Um dia perfeito": [
+            1,
+            "Guerra"
+        ],
+        "A forma da água": [
+            6,
+            "Drama"
+        ],
+        "Intocáveis": [
+            2,
+            "Drama"
+        ],
+        "A invenção de Hugo Cabret": [
+            0,
+            "Drama"
+        ],
+        "Green book: o guia": [
+            0,
+            "Drama"
+        ],
+        "A Caça": [
+            8,
+            "Drama"
+        ],
+        "Dangal": [
+            4,
+            "Drama"
+        ],
+        "Boyhood: Da Infância à Juventude": [
+            8,
+            "Drama"
+        ]
+    },
+    "Natanael": {
+        "No fim do túnel": [
+            1,
+            "Drama"
+        ],
+        "Vingadores Guerra infinita": [
+            6,
+            "Ficção"
+        ],
+        "Corra!": [
+            5,
+            "Terror"
+        ],
+        "Vingadores: ultimato": [
+            6,
+            "Ficção"
+        ],
+        "Cafarnaum": [
+            2,
+            "Drama"
+        ],
+        "Rush: No Limite da Emoção": [
+            8,
+            "Aventura"
+        ],
+        "Decisão de risco": [
+            8,
+            "Guerra"
+        ],
+        "Klaus": [
+            6,
+            "Animação"
+        ],
+        "Django Livre": [
+            9,
+            "Drama"
+        ],
+        "Uma Aventura Lego": [
+            5,
+            "Animação"
+        ],
+        "Um dia perfeito": [
+            8,
+            "Guerra"
+        ],
+        "O outro irmão": [
+            7,
+            "Drama"
+        ],
+        "A Caça": [
+            8,
+            "Drama"
+        ],
+        "O Grande Hotel Budapeste": [
+            10,
+            "Comédia"
+        ],
+        "Boyhood: Da Infância à Juventude": [
+            5,
+            "Drama"
+        ],
+        "Homem-Aranha no Aranhaverso": [
+            10,
+            "Animação"
+        ],
+        "O Quarto de Jack": [
+            2,
+            "Drama"
+        ],
+        "Os Suspeitos 2013": [
+            6,
+            "Policial"
+        ],
+        "Zootopia": [
+            7,
+            "Animação"
+        ],
+        "A chegada": [
+            2,
+            "Drama"
+        ]
+    },
+    "Paulo": {
+        "O outro irmão": [
+            0,
+            "Drama"
+        ],
+        "Decisão de risco": [
+            9,
+            "Guerra"
+        ],
+        "Lincoln": [
+            4,
+            "Drama"
+        ],
+        "Elysuym": [
+            7,
+            "Ficção"
+        ],
+        "Birdman": [
+            4,
+            "Drama"
+        ],
+        "Whiplash: Em Busca da Perfeição": [
+            6,
+            "Drama"
+        ],
+        "Roma": [
+            2,
+            "Drama"
+        ],
+        "Dangal": [
+            1,
+            "Drama"
+        ],
+        "O Irlandês": [
+            4,
+            "Drama"
+        ],
+        "A grande beleza": [
+            5,
+            "Drama"
+        ],
+        "Os Suspeitos 2013": [
+            1,
+            "Policial"
+        ],
+        "La La Land: Cantando Estações": [
+            3,
+            "Musical"
+        ],
+        "A origem": [
+            4,
+            "Aventura"
+        ],
+        "Spotlight: Segredos Revelados": [
+            4,
+            "Drama"
+        ],
+        "Cafarnaum": [
+            8,
+            "Drama"
+        ],
+        "Dunkirk": [
+            2,
+            "Guerra"
+        ],
+        "Ela": [
+            2,
+            "Ficção"
+        ],
+        "Mad Max: Estrada da Fúria": [
+            10,
+            "Aventura"
+        ],
+        "Gravidade": [
+            6,
+            "Ficção"
+        ],
+        "Moonlight: Sob a Luz do Luar": [
+            3,
+            "Drama"
+        ]
     }
 }
