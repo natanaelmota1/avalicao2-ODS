@@ -1,0 +1,1094 @@
+{
+    "Evelyn da Rosa": {
+        "diretor": {
+            "Phil Lord": 1,
+            "Gavin O'Connor": 1,
+            "Zaza Urushadze": 1,
+            "James Mangold": 2,
+            "Fernando León de Aranoa": 1,
+            "Ron Howard": 1,
+            "Steven Spielberg": 1,
+            "Damien Chazelle": 1,
+            "Joe Russo": 1,
+            "Anurag Kashyap": 1,
+            "Rodrigo Grande": 1,
+            "Dan Gilroy": 1,
+            "Bob Persichetti": 1,
+            "Chan Wook": 1,
+            "Paolo Sorrentino": 1,
+            "Hatem Khraiche": 1,
+            "Fernando Meirelles": 1,
+            "Steve McQueen": 1,
+            "Nishikant Kamat": 1
+        },
+        "ano": {
+            "2014": 2,
+            "2011": 1,
+            "2013": 4,
+            "2019": 3,
+            "2017": 2,
+            "2016": 4,
+            "2015": 2,
+            "2012": 1,
+            "2018": 1
+        },
+        "pais": {
+            "EUA": 12,
+            "Georgia": 1,
+            "Espanha": 2,
+            "Índia": 2,
+            "Argentina": 1,
+            "China": 1,
+            "Itália": 1
+        },
+        "genero": {
+            "Animação": 2,
+            "Drama": 9,
+            "Aventura": 3,
+            "Guerra": 1,
+            "Musical": 1,
+            "Ficção": 2,
+            "Policial": 2
+        }
+    },
+    "Gabriela Souza": {
+        "diretor": {
+            "Susanne Bier": 1,
+            "Damián Szifron": 1,
+            "Ron Howard": 1,
+            "Quentin Tarantino": 1,
+            "Martin Rosete": 1,
+            "Steven Spielberg": 2,
+            "Christopher Nolan": 1,
+            "Nitesh Tiwari": 1,
+            "Martin Scorsese": 2,
+            "Sam Mendes": 1,
+            "Guilherme Del Toro": 1,
+            "Fernando Meirelles": 1,
+            "Joe Wright": 1,
+            "Nishikant Kamat": 1,
+            "Nicolas Winding Refn": 1,
+            "Zaza Urushadze": 1,
+            "Martin McDonagh": 1,
+            "Nadine Labaki": 1
+        },
+        "ano": {
+            "2018": 2,
+            "2014": 2,
+            "2013": 3,
+            "2012": 3,
+            "2016": 2,
+            "2015": 2,
+            "2019": 2,
+            "2017": 3,
+            "2011": 1
+        },
+        "pais": {
+            "EUA": 14,
+            "Argentina": 1,
+            "Índia": 2,
+            "Reino Unido": 1,
+            "Georgia": 1,
+            "Líbano": 1
+        },
+        "genero": {
+            "Ficção": 2,
+            "Drama": 13,
+            "Aventura": 2,
+            "Policial": 2,
+            "Guerra": 1
+        }
+    },
+    "Mariane Lopes": {
+        "diretor": {
+            "Pete Docter": 1,
+            "Israel Adrian": 1,
+            "Sergio Pablos": 1,
+            "Alfonso Cuaron": 1,
+            "Makoto Shinkai": 1,
+            "Nitesh Tiwari": 1,
+            "James Mangold": 1,
+            "Steven Spielberg": 1,
+            "Martin Scorsese": 1,
+            "Martin Hodara": 1,
+            "J. J. Abrams": 1,
+            "Alex Garland": 1,
+            "Sam Mendes": 1,
+            "Lenny Abrahamson": 1,
+            "Bong Joon Ho": 1,
+            "Fernando Meirelles": 1,
+            "Martin Rosete": 1,
+            "Peter Farrely": 1,
+            "Christopher Nolan": 1,
+            "Oriol Paulo": 1
+        },
+        "ano": {
+            "2015": 4,
+            "2017": 3,
+            "2019": 4,
+            "2013": 1,
+            "2016": 4,
+            "2011": 1,
+            "2014": 2,
+            "2018": 1
+        },
+        "pais": {
+            "EUA": 14,
+            "Argentina": 2,
+            "Japão": 1,
+            "Índia": 1,
+            "Coreia do Sul": 1,
+            "Espanha": 1
+        },
+        "genero": {
+            "Animação": 3,
+            "Drama": 10,
+            "Ficção": 2,
+            "Aventura": 2,
+            "Guerra": 1,
+            "Policial": 2
+        }
+    },
+    "Pietra da Cunha": {
+        "diretor": {
+            "Gavin Hookd": 1,
+            "Nicolas Winding Refn": 1,
+            "Mel Gibson": 1,
+            "Steven Spielberg": 1,
+            "Peter Farrely": 1,
+            "Quentin Tarantino": 1,
+            "Michel Hazanavicius": 1,
+            "Ron Howard": 1,
+            " Gayatri": 1,
+            "Baz Luhrmann": 1,
+            "Alfonso Cuaron": 1,
+            "Alexander Payne": 1,
+            "Zaza Urushadze": 1,
+            "Ang Lee": 1,
+            "Matthew Vaughn": 1,
+            "Oriol Paulo": 1,
+            "Joe Russo": 1,
+            "Christopher Nolan": 1,
+            "Steve McQueen": 1,
+            "David Fincher": 1
+        },
+        "ano": {
+            "2015": 2,
+            "2011": 3,
+            "2016": 2,
+            "2017": 3,
+            "2018": 1,
+            "2012": 4,
+            "2013": 4,
+            "2019": 1
+        },
+        "pais": {
+            "EUA": 15,
+            "Índia": 1,
+            "Georgia": 1,
+            "Reino Unido": 2,
+            "Espanha": 1
+        },
+        "genero": {
+            "Guerra": 2,
+            "Drama": 11,
+            "Aventura": 2,
+            "Ficção": 2,
+            "Comédia": 1,
+            "Ação": 1,
+            "Policial": 1
+        }
+    },
+    "Sr. Alexandre Lopes": {
+        "diretor": {
+            "Joe Wright": 1,
+            "Steve McQueen": 1,
+            "Martin Rosete": 1,
+            "Robert Zemeckis": 1,
+            "Thomas Vinterberg": 1,
+            "Martin Scorsese": 2,
+            "Neill Blomkamp": 1,
+            "Susanne Bier": 1,
+            "Nishikant Kamat": 1,
+            "Lenny Abrahamson": 1,
+            "Ridley Scott": 1,
+            "Fernando Meirelles": 1,
+            "Matthew Vaughn": 1,
+            "Barry Jenkins": 1,
+            " Gayatri": 1,
+            "Céline Sciamma": 1,
+            "Alfonso Cuaron": 1,
+            "Baz Luhrmann": 1,
+            "Martin McDonagh": 1
+        },
+        "ano": {
+            "2017": 4,
+            "2013": 2,
+            "2016": 2,
+            "2012": 3,
+            "2011": 1,
+            "2018": 1,
+            "2015": 4,
+            "2019": 3
+        },
+        "pais": {
+            "Reino Unido": 2,
+            "EUA": 14,
+            "Suécia": 1,
+            "Índia": 2,
+            "França": 1
+        },
+        "genero": {
+            "Guerra": 1,
+            "Drama": 12,
+            "Policial": 2,
+            "Ficção": 3,
+            "Ação": 1,
+            "Aventura": 1
+        }
+    },
+    "Dr. Pedro Pires": {
+        "diretor": {
+            "Nishikant Kamat": 1,
+            "Richard Linklater": 1,
+            "Israel Adrian": 1,
+            "Olivier Nakache": 1,
+            "Damien Chazelle": 2,
+            "Spike Jonze": 1,
+            "Denis Villeneuve": 1,
+            "Martin Scorsese": 1,
+            "Joe Wright": 1,
+            "J. J. Abrams": 1,
+            "Baz Luhrmann": 1,
+            "Ron Howard": 1,
+            "Jordan Peele": 1,
+            "Mel Gibson": 1,
+            "Gavin Hookd": 1,
+            "Byron Howard": 1,
+            "Susanne Bier": 1,
+            "Ben Affleck": 1,
+            "Nadine Labaki": 1
+        },
+        "ano": {
+            "2015": 3,
+            "2014": 2,
+            "2017": 3,
+            "2011": 2,
+            "2012": 3,
+            "2016": 4,
+            "2013": 1,
+            "2018": 2
+        },
+        "pais": {
+            "Índia": 1,
+            "EUA": 15,
+            "Argentina": 1,
+            "França": 1,
+            "Reino Unido": 1,
+            "Líbano": 1
+        },
+        "genero": {
+            "Policial": 1,
+            "Drama": 10,
+            "Ficção": 2,
+            "Musical": 1,
+            "Guerra": 2,
+            "Aventura": 2,
+            "Terror": 1,
+            "Animação": 1
+        }
+    },
+    "Sra. Sarah Alves": {
+        "diretor": {
+            "Martin Scorsese": 1,
+            "Nicolas Winding Refn": 1,
+            "Dan Gilroy": 1,
+            "Denis Villeneuve": 1,
+            "Martin Rosete": 1,
+            "Jan Komasa": 1,
+            "Robert Zemeckis": 1,
+            "Michel Hazanavicius": 1,
+            "Alfonso Cuaron": 1,
+            "Mel Gibson": 1,
+            "James Gray": 1,
+            "Sriram Raghavan": 1,
+            "Joe Russo": 1,
+            "Bob Persichetti": 1,
+            "Chan Wook": 1,
+            "Steven Spielberg": 1,
+            "Damien Chazelle": 1,
+            "Paolo Sorrentino": 1,
+            "Lenny Abrahamson": 1,
+            "Christopher Nolan": 1
+        },
+        "ano": {
+            "2013": 2,
+            "2011": 2,
+            "2014": 1,
+            "2016": 5,
+            "2020": 1,
+            "2012": 3,
+            "2017": 1,
+            "2019": 2,
+            "2018": 2,
+            "2015": 1
+        },
+        "pais": {
+            "EUA": 16,
+            "Polônia": 1,
+            "Índia": 1,
+            "China": 1,
+            "Itália": 1
+        },
+        "genero": {
+            "Drama": 13,
+            "Policial": 2,
+            "Ficção": 2,
+            "Animação": 1,
+            "Musical": 1,
+            "Aventura": 1
+        }
+    },
+    "Clara Aragão": {
+        "diretor": {
+            "Fernando León de Aranoa": 1,
+            "Byron Howard": 1,
+            "Asghar Farhadi": 1,
+            "George Miller": 1,
+            "Phil Lord": 1,
+            "Ben Affleck": 1,
+            "Sergio Pablos": 1,
+            "Tom Hooper": 1,
+            "Brad Bird": 1,
+            "José Padilha": 1,
+            "J. J. Abrams": 1,
+            "Alexander Payne": 1,
+            "Baz Luhrmann": 1,
+            "Lenny Abrahamson": 1,
+            "Paolo Sorrentino": 1,
+            "Pete Docter": 1,
+            "Martin Scorsese": 1,
+            "Sam Mendes": 1,
+            "Sriram Raghavan": 1,
+            "Richard Linklater": 1
+        },
+        "ano": {
+            "2016": 2,
+            "2011": 4,
+            "2015": 4,
+            "2014": 3,
+            "2012": 3,
+            "2019": 2,
+            "2013": 1,
+            "2018": 1
+        },
+        "pais": {
+            "Espanha": 1,
+            "EUA": 15,
+            "Irã": 1,
+            "Austrália": 1,
+            "Itália": 1,
+            "Índia": 1
+        },
+        "genero": {
+            "Guerra": 2,
+            "Animação": 4,
+            "Drama": 8,
+            "Aventura": 3,
+            "Ficção": 1,
+            "Comédia": 1,
+            "Policial": 1
+        }
+    },
+    "Breno Fogaça": {
+        "diretor": {
+            "Lee Unkrich": 1,
+            "Ang Lee": 1,
+            "Sriram Raghavan": 1,
+            "Sam Mendes": 2,
+            "Bong Joon Ho": 1,
+            "Quentin Tarantino": 1,
+            "Israel Adrian": 1,
+            "Alfonso Cuaron": 1,
+            "Neill Blomkamp": 1,
+            "Rodrigo Grande": 1,
+            "Steven Spielberg": 1,
+            "Christopher Nolan": 1,
+            "James Mangold": 1,
+            "Naoko Yamada": 1,
+            "David Fincher": 2,
+            "Sergio Pablos": 1,
+            "Pete Docter": 1,
+            "Joe Russo": 1
+        },
+        "ano": {
+            "2017": 2,
+            "2012": 5,
+            "2018": 2,
+            "2019": 4,
+            "2013": 2,
+            "2016": 2,
+            "2010": 2,
+            "2015": 1
+        },
+        "pais": {
+            "EUA": 15,
+            "Índia": 1,
+            "Coreia do Sul": 1,
+            "Argentina": 2,
+            "Japão": 1
+        },
+        "genero": {
+            "Animação": 4,
+            "Drama": 8,
+            "Policial": 1,
+            "Aventura": 3,
+            "Ficção": 3,
+            "Guerra": 1
+        }
+    },
+    "Dr. João Lucas Lopes": {
+        "diretor": {
+            "Céline Sciamma": 1,
+            "Israel Adrian": 1,
+            "Fernando León de Aranoa": 1,
+            "Lee Unkrich": 1,
+            "Nishikant Kamat": 1,
+            "Tom McCarthy": 1,
+            "Ridley Scott": 1,
+            "Christopher Nolan": 1,
+            "Ron Howard": 1,
+            "Denis Villeneuve": 1,
+            "Steven Spielberg": 2,
+            "Dan Gilroy": 1,
+            "Martin Scorsese": 1,
+            "Nadine Labaki": 1,
+            "Damien Chazelle": 1,
+            "Joe Wright": 1,
+            "Spike Jonze": 1,
+            "Byron Howard": 1,
+            "Alfonso Cuaron": 1
+        },
+        "ano": {
+            "2019": 2,
+            "2017": 5,
+            "2016": 4,
+            "2015": 3,
+            "2010": 1,
+            "2013": 1,
+            "2012": 2,
+            "2014": 1,
+            "2018": 1
+        },
+        "pais": {
+            "França": 1,
+            "Argentina": 1,
+            "Espanha": 1,
+            "EUA": 14,
+            "Índia": 1,
+            "Líbano": 1,
+            "Reino Unido": 1
+        },
+        "genero": {
+            "Drama": 10,
+            "Guerra": 2,
+            "Animação": 2,
+            "Policial": 1,
+            "Ficção": 2,
+            "Aventura": 2,
+            "Musical": 1
+        }
+    },
+    "Melissa Rocha": {
+        "diretor": {
+            "James Mangold": 2,
+            "Tom Hooper": 1,
+            "Richard Linklater": 1,
+            "Byron Howard": 1,
+            "Alfonso Cuaron": 1,
+            "Neill Blomkamp": 1,
+            "Fernando León de Aranoa": 1,
+            "Martin Scorsese": 1,
+            "Hatem Khraiche": 1,
+            "Ridley Scott": 1,
+            "Steven Spielberg": 1,
+            "Nadine Labaki": 1,
+            "Chan Wook": 1,
+            " Gayatri": 1,
+            "Asghar Farhadi": 1,
+            "J. J. Abrams": 1,
+            "Nitesh Tiwari": 1,
+            "Robert Zemeckis": 1,
+            "Alex Garland": 1
+        },
+        "ano": {
+            "2019": 1,
+            "2012": 2,
+            "2014": 2,
+            "2016": 4,
+            "2017": 5,
+            "2013": 2,
+            "2015": 2,
+            "2018": 1,
+            "2011": 1
+        },
+        "pais": {
+            "EUA": 13,
+            "Espanha": 2,
+            "Líbano": 1,
+            "China": 1,
+            "Índia": 2,
+            "Irã": 1
+        },
+        "genero": {
+            "Aventura": 4,
+            "Drama": 11,
+            "Animação": 1,
+            "Ficção": 3,
+            "Guerra": 1
+        }
+    },
+    "Rodrigo Caldeira": {
+        "diretor": {
+            "Michel Hazanavicius": 1,
+            " Gayatri": 1,
+            "Steven Spielberg": 1,
+            "Alex Garland": 1,
+            "Baz Luhrmann": 1,
+            "David Yates": 1,
+            "Oren Uziel": 1,
+            "Martin Scorsese": 2,
+            "Ron Howard": 1,
+            "Spike Jonze": 1,
+            "Phil Lord": 1,
+            "James Gray": 1,
+            "Asghar Farhadi": 1,
+            "Richard Linklater": 1,
+            "Paolo Sorrentino": 1,
+            "Israel Adrian": 1,
+            "Barry Jenkins": 1,
+            "Sriram Raghavan": 1,
+            "Nadine Labaki": 1
+        },
+        "ano": {
+            "2011": 3,
+            "2017": 4,
+            "2014": 3,
+            "2012": 2,
+            "2019": 2,
+            "2013": 3,
+            "2016": 1,
+            "2018": 2
+        },
+        "pais": {
+            "EUA": 14,
+            "Índia": 2,
+            "Irã": 1,
+            "Itália": 1,
+            "Argentina": 1,
+            "Líbano": 1
+        },
+        "genero": {
+            "Drama": 12,
+            "Aventura": 3,
+            "Policial": 2,
+            "Ficção": 2,
+            "Animação": 1
+        }
+    },
+    "Alexandre Moura": {
+        "diretor": {
+            "Martin Scorsese": 1,
+            "Thomas Vinterberg": 1,
+            "Jordan Peele": 1,
+            "Mel Gibson": 1,
+            "James Mangold": 1,
+            "Ridley Scott": 1,
+            "Eli Roth": 1,
+            "Christopher Nolan": 1,
+            "Alfonso Cuaron": 1,
+            "Damien Chazelle": 1,
+            "Steven Spielberg": 2,
+            "Alexander Payne": 1,
+            "Barry Jenkins": 1,
+            "Neill Blomkamp": 1,
+            "Pete Docter": 1,
+            "Todd Phillips": 1,
+            "Nicolas Winding Refn": 1,
+            "Denis Villeneuve": 1,
+            "Ron Howard": 1
+        },
+        "ano": {
+            "2019": 2,
+            "2012": 2,
+            "2017": 4,
+            "2016": 4,
+            "2015": 2,
+            "2018": 1,
+            "2013": 3,
+            "2011": 2
+        },
+        "pais": {
+            "EUA": 18,
+            "Suécia": 1,
+            "Reino Unido": 1
+        },
+        "genero": {
+            "Drama": 8,
+            "Terror": 1,
+            "Aventura": 2,
+            "Ficção": 4,
+            "Policial": 1,
+            "Guerra": 1,
+            "Musical": 1,
+            "Comédia": 1,
+            "Animação": 1
+        }
+    },
+    "Sra. Valentina Costela": {
+        "diretor": {
+            "Anurag Kashyap": 1,
+            "Peter Farrely": 1,
+            "Fernando León de Aranoa": 1,
+            "Bryan Singer": 1,
+            "Oren Uziel": 1,
+            "Denis Villeneuve": 1,
+            "Damián Szifron": 1,
+            "Damien Chazelle": 1,
+            "Israel Adrian": 1,
+            "Wes Anderson": 1,
+            "Baz Luhrmann": 1,
+            "Ben Affleck": 1,
+            "Chan Wook": 1,
+            "Asghar Farhadi": 1,
+            "Makoto Shinkai": 1,
+            "Alejandro González-Iñárritu": 1,
+            "Quentin Tarantino": 1,
+            "Sam Mendes": 1,
+            "Guilherme Del Toro": 1,
+            "Ang Lee": 1
+        },
+        "ano": {
+            "2012": 6,
+            "2018": 2,
+            "2016": 4,
+            "2017": 3,
+            "2014": 4,
+            "2011": 1
+        },
+        "pais": {
+            "Índia": 1,
+            "EUA": 13,
+            "Espanha": 1,
+            "Argentina": 2,
+            "China": 1,
+            "Irã": 1,
+            "Japão": 1
+        },
+        "genero": {
+            "Policial": 2,
+            "Drama": 14,
+            "Guerra": 1,
+            "Comédia": 1,
+            "Animação": 1,
+            "Aventura": 1
+        }
+    },
+    "Sra. Eloah Castro": {
+        "diretor": {
+            "Martin Hodara": 1,
+            "Alejandro González-Iñárritu": 1,
+            "Denis Villeneuve": 1,
+            "Sergio Pablos": 1,
+            "Joe Russo": 1,
+            "Ben Affleck": 1,
+            "Paolo Sorrentino": 1,
+            "Baz Luhrmann": 1,
+            "Guilherme Del Toro": 1,
+            "Richard Linklater": 1,
+            "Gavin O'Connor": 1,
+            "Chan Wook": 1,
+            "Martin McDonagh": 1,
+            "David Fincher": 1,
+            "Tom Hooper": 1,
+            "Ron Howard": 1,
+            "Eli Roth": 1,
+            "Bob Persichetti": 1,
+            "Joe Wright": 1,
+            "Fernando León de Aranoa": 1
+        },
+        "ano": {
+            "2017": 4,
+            "2015": 1,
+            "2013": 3,
+            "2019": 1,
+            "2018": 3,
+            "2012": 4,
+            "2014": 1,
+            "2011": 1,
+            "2016": 2
+        },
+        "pais": {
+            "Argentina": 1,
+            "EUA": 15,
+            "Itália": 1,
+            "China": 1,
+            "Reino Unido": 1,
+            "Espanha": 1
+        },
+        "genero": {
+            "Drama": 11,
+            "Aventura": 2,
+            "Policial": 2,
+            "Animação": 2,
+            "Ficção": 1,
+            "Guerra": 2
+        }
+    },
+    "Thales Peixoto": {
+        "diretor": {
+            "Nadine Labaki": 1,
+            "J. J. Abrams": 1,
+            "Israel Adrian": 1,
+            "Phil Lord": 1,
+            "James Gray": 1,
+            "Spike Jonze": 1,
+            "Nishikant Kamat": 1,
+            "Martin Hodara": 1,
+            "Fernando León de Aranoa": 1,
+            "Anurag Kashyap": 1,
+            "Denis Villeneuve": 1,
+            "Martin Scorsese": 2,
+            "Bong Joon Ho": 1,
+            "Susanne Bier": 1,
+            "Olivier Nakache": 1,
+            "Sam Mendes": 1,
+            "Robert Zemeckis": 1,
+            "Byron Howard": 1,
+            "Guilherme Del Toro": 1
+        },
+        "ano": {
+            "2018": 2,
+            "2015": 2,
+            "2017": 3,
+            "2014": 1,
+            "2019": 4,
+            "2012": 3,
+            "2016": 3,
+            "2013": 1,
+            "2011": 1
+        },
+        "pais": {
+            "Líbano": 1,
+            "EUA": 12,
+            "Argentina": 2,
+            "Índia": 2,
+            "Espanha": 1,
+            "Coreia do Sul": 1,
+            "França": 1
+        },
+        "genero": {
+            "Drama": 10,
+            "Aventura": 1,
+            "Animação": 2,
+            "Ficção": 3,
+            "Policial": 2,
+            "Guerra": 2
+        }
+    },
+    "Maria Vitória Freitas": {
+        "diretor": {
+            "Sriram Raghavan": 1,
+            " Gayatri": 1,
+            "Alfonso Cuaron": 1,
+            "Pete Docter": 1,
+            "J. J. Abrams": 1,
+            "Ron Howard": 1,
+            "Ang Lee": 1,
+            "Neill Blomkamp": 1,
+            "Oren Uziel": 1,
+            "Alejandro González-Iñárritu": 1,
+            "Damien Chazelle": 2,
+            "Anurag Kashyap": 1,
+            "Lenny Abrahamson": 1,
+            "Spike Jonze": 1,
+            "Christopher Nolan": 2,
+            "Zaza Urushadze": 1,
+            "Joe Russo": 1,
+            "James Gray": 1
+        },
+        "ano": {
+            "2018": 1,
+            "2017": 3,
+            "2015": 4,
+            "2013": 3,
+            "2012": 4,
+            "2016": 1,
+            "2010": 1,
+            "2019": 2,
+            "2014": 1
+        },
+        "pais": {
+            "Índia": 3,
+            "EUA": 16,
+            "Georgia": 1
+        },
+        "genero": {
+            "Policial": 3,
+            "Aventura": 6,
+            "Drama": 5,
+            "Animação": 1,
+            "Ficção": 4,
+            "Musical": 1
+        }
+    },
+    "Yago Fogaça": {
+        "diretor": {
+            "Steven Spielberg": 1,
+            "Bong Joon Ho": 1,
+            "Nishikant Kamat": 1,
+            "Neill Blomkamp": 1,
+            "Guilherme Del Toro": 1,
+            "Martin McDonagh": 1,
+            "Gavin O'Connor": 1,
+            "Bob Persichetti": 1,
+            "Hatem Khraiche": 1,
+            "Paolo Sorrentino": 1,
+            "Wes Anderson": 1,
+            "Christopher Nolan": 1,
+            "Gavin Hookd": 1,
+            "Ang Lee": 1,
+            "Denis Villeneuve": 1,
+            "David Fincher": 2,
+            "Kim Seon Hun": 1,
+            "Ben Affleck": 1,
+            "J. J. Abrams": 1
+        },
+        "ano": {
+            "2017": 4,
+            "2019": 1,
+            "2015": 3,
+            "2013": 2,
+            "2011": 1,
+            "2018": 1,
+            "2014": 2,
+            "2012": 4,
+            "2016": 1,
+            "2010": 1
+        },
+        "pais": {
+            "EUA": 15,
+            "Coreia do Sul": 2,
+            "Índia": 1,
+            "Espanha": 1,
+            "Itália": 1
+        },
+        "genero": {
+            "Drama": 11,
+            "Policial": 2,
+            "Ficção": 2,
+            "Animação": 1,
+            "Comédia": 1,
+            "Aventura": 2,
+            "Guerra": 1
+        }
+    },
+    "Maria Clara Gomes": {
+        "diretor": {
+            "Steven Spielberg": 1,
+            "Denis Villeneuve": 1,
+            "Alfonso Cuaron": 1,
+            "Ben Affleck": 1,
+            "Joe Wright": 1,
+            "Fernando Meirelles": 1,
+            "George Miller": 1,
+            "Nishikant Kamat": 1,
+            "J. J. Abrams": 1,
+            "Chan Wook": 1,
+            "Neill Blomkamp": 1,
+            "Steve McQueen": 1,
+            "Zaza Urushadze": 1,
+            "Ridley Scott": 1,
+            "Martin Scorsese": 1,
+            "Sriram Raghavan": 1,
+            "Alejandro González-Iñárritu": 1,
+            "Joe Russo": 1,
+            "Tom Hooper": 1,
+            "Bob Persichetti": 1
+        },
+        "ano": {
+            "2012": 3,
+            "2013": 6,
+            "2017": 1,
+            "2019": 2,
+            "2015": 4,
+            "2016": 1,
+            "2018": 2,
+            "2014": 1
+        },
+        "pais": {
+            "EUA": 14,
+            "Reino Unido": 1,
+            "Austrália": 1,
+            "Índia": 2,
+            "China": 1,
+            "Georgia": 1
+        },
+        "genero": {
+            "Drama": 9,
+            "Policial": 3,
+            "Ficção": 4,
+            "Guerra": 1,
+            "Aventura": 2,
+            "Animação": 1
+        }
+    },
+    "Dr. Theo Ramos": {
+        "diretor": {
+            "Ron Howard": 1,
+            "Nitesh Tiwari": 1,
+            "Richard Linklater": 1,
+            "Bob Persichetti": 1,
+            "Eli Roth": 1,
+            "Alejandro González-Iñárritu": 1,
+            "Alfonso Cuaron": 1,
+            "Alexander Payne": 1,
+            "Spike Jonze": 1,
+            "Neill Blomkamp": 1,
+            "Barry Jenkins": 1,
+            "Bryan Singer": 1,
+            "Tom McCarthy": 1,
+            "Denis Villeneuve": 1,
+            "Dan Gilroy": 1,
+            "Oriol Paulo": 1,
+            "Kim Seon Hun": 1,
+            "J. J. Abrams": 1,
+            "Gavin O'Connor": 1,
+            "Damián Szifron": 1
+        },
+        "ano": {
+            "2013": 3,
+            "2016": 3,
+            "2014": 5,
+            "2018": 3,
+            "2017": 1,
+            "2011": 2,
+            "2012": 1,
+            "2015": 2
+        },
+        "pais": {
+            "EUA": 16,
+            "Índia": 1,
+            "Espanha": 1,
+            "Coreia do Sul": 1,
+            "Argentina": 1
+        },
+        "genero": {
+            "Aventura": 2,
+            "Drama": 10,
+            "Animação": 1,
+            "Policial": 4,
+            "Comédia": 1,
+            "Ficção": 2
+        }
+    },
+    "Natanael": {
+        "diretor": {
+            "Michel Hazanavicius": 1,
+            "Sriram Raghavan": 1,
+            "Barry Jenkins": 1,
+            "Joe Wright": 1,
+            "Robert Zemeckis": 1,
+            "Brad Bird": 1,
+            "Denis Villeneuve": 1,
+            "Damien Chazelle": 1,
+            "Bong Joon Ho": 1,
+            "Steven Spielberg": 1,
+            "Gavin O'Connor": 1,
+            "Gavin Hookd": 1,
+            "Neill Blomkamp": 1,
+            "Asghar Farhadi": 1,
+            "Susanne Bier": 1,
+            "Paolo Sorrentino": 1,
+            "Zaza Urushadze": 1,
+            "Peter Farrely": 1,
+            "Ang Lee": 1,
+            "Oren Uziel": 1
+        },
+        "ano": {
+            "2011": 4,
+            "2018": 3,
+            "2016": 2,
+            "2017": 2,
+            "2012": 2,
+            "2014": 1,
+            "2019": 1,
+            "2015": 2,
+            "2013": 3
+        },
+        "pais": {
+            "EUA": 14,
+            "Índia": 1,
+            "Reino Unido": 1,
+            "Coreia do Sul": 1,
+            "Irã": 1,
+            "Itália": 1,
+            "Georgia": 1
+        },
+        "genero": {
+            "Drama": 13,
+            "Policial": 2,
+            "Guerra": 2,
+            "Aventura": 1,
+            "Ficção": 2
+        }
+    },
+    "Paulo": {
+        "diretor": {
+            "Mel Gibson": 1,
+            "Richard Linklater": 1,
+            "Martin McDonagh": 1,
+            "Sam Mendes": 2,
+            "Nitesh Tiwari": 1,
+            "Tom McCarthy": 1,
+            "Denis Villeneuve": 1,
+            "Gavin O'Connor": 1,
+            "Gavin Hookd": 1,
+            "Nadine Labaki": 1,
+            "Guilherme Del Toro": 1,
+            "Robert Zemeckis": 1,
+            "Barry Jenkins": 1,
+            "Martin Scorsese": 1,
+            "Bong Joon Ho": 1,
+            "Israel Adrian": 1,
+            "Joe Russo": 1,
+            "Neill Blomkamp": 1,
+            "George Miller": 1
+        },
+        "ano": {
+            "2016": 4,
+            "2014": 1,
+            "2017": 3,
+            "2012": 2,
+            "2015": 3,
+            "2011": 1,
+            "2018": 2,
+            "2019": 3,
+            "2013": 1
+        },
+        "pais": {
+            "EUA": 15,
+            "Índia": 1,
+            "Líbano": 1,
+            "Coreia do Sul": 1,
+            "Argentina": 1,
+            "Austrália": 1
+        },
+        "genero": {
+            "Drama": 14,
+            "Aventura": 2,
+            "Guerra": 2,
+            "Ficção": 2
+        }
+    }
+}

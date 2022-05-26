@@ -1,100 +1,854 @@
-Rede de ódio,Drama
-1917,Guerra
-Ad Astra,Ficção
-Coringa,Ficção
-Dois Papas,Drama
-Ford vs Ferrari,Aventura
-Klaus,Animação
-O Irlandês,Drama
-Parasita,Drama
-Retrato de uma Jovem em Chamas,Drama
-Vingadores: ultimato,Ficção
-Assassinato às Cegas,Policial
-Bird box,Ficção
-Bohemian Rhapsody,Drama
-Cafarnaum,Drama
-Desejo de matar 2018,Policial
-Green book: o guia,Drama
-Homem-Aranha no Aranhaverso,Animação
-Vingadores Guerra infinita,Ficção
-A forma da água,Drama
-Corra!,Terror
-Dunkirk,Guerra
-Logan,Aventura
-Neve Negra,Drama
-O destino de uma nação,Guerra
-O outro irmão,Drama
-Órbita 9,Ficção
-Roma,Drama
-Shimmer Lake,Policial
-The post,Drama
-Três anúncios para um crime,Drama
-Vikram Vedha,Aventura
-Viva: A Vida é uma Festa,Animação
-A chegada,Drama
-A criada,Drama
-A voz do silêncio,Animação
-Até o Último Homem,Drama
-Dangal,Drama
-Dinheiro em jogo,Policial
-La La Land: Cantando Estações,Musical
-Moonlight: Sob a Luz do Luar,Drama
-No fim do túnel,Drama
-Um contratempo,Policial
-Um dia perfeito,Guerra
-Your name,Animação
-Zootopia,Animação
-A chantagem,Policial
-A ponte dos espiões,Drama
-Decisão de risco,Guerra
-Divertida Mente,Animação
-Kingsman: serviço secreto,Ação
-Mad Max: Estrada da Fúria,Aventura
-O Quarto de Jack,Drama
-O regresso,Aventura
-Perdido em marte,Ficção
-Spotlight: Segredos Revelados,Drama
-Star Wars: O Despertar da Força,Aventura
-Birdman,Drama
-Boyhood: Da Infância à Juventude,Drama
-Ex-Machina: Instinto Artificial,Drama
-Interestelar,Ficção
-O abutre,Drama
-O Grande Hotel Budapeste,Comédia
-Relatos Selvagens,Drama
-RoboCop 2014,Ficção
-Um dia difícil,Policial
-Uma Aventura Lego,Animação
-Whiplash: Em Busca da Perfeição,Drama
-12 Anos de Escravidão,Drama
-A grande beleza,Drama
-Elysuym,Ficção
-Gravidade,Ficção
-O Lobo de Wall Street,Drama
-Os Suspeitos 2013,Policial
-Rush: No Limite da Emoção,Aventura
-Tangerinas,Drama
-007 Operação Skyfall,Aventura
-A Caça,Drama
-A vida de Pi,Drama
-Argo,Drama
-Batman: O Cavaleiro das Trevas Ressurge,Aventura
-Django Livre,Drama
-Ela,Ficção
-Gangues de Wasseypur,Policial
-Garota Exemplar,Drama
-Lincoln,Drama
-O grande Gatsby,Drama
-O voo,Drama
-Os miseráveis,Drama
-A invenção de Hugo Cabret,Drama
-A Separação,Drama
-Drive,Drama
-Guerreiro,Drama
-Harry Potter e as Relíquias da Morte: Parte II ,Aventura
-Intocáveis,Drama
-Missão impossível protocolo fantasma,Aventura
-O Artista,Drama
-Os descendentes,Comédia
-A origem,Aventura
-A rede social,Drama
+Rede de ódio,Jan Komasa,2020,Polônia,Drama
+1917,Sam Mendes,2019,EUA,Guerra
+Ad Astra,James Gray,2019,EUA,Ficção
+Coringa,Todd Phillips,2019,EUA,Ficção
+Dois Papas,Fernando Meirelles,2019,EUA,Drama
+Ford vs Ferrari,James Mangold,2019,EUA,Aventura
+Klaus,Sergio Pablos,2019,EUA,Animação
+O Irlandês,Martin Scorsese,2019,EUA,Drama
+Parasita,Bong Joon Ho,2019,Coreia do Sul,Drama
+Retrato de uma Jovem em Chamas,Céline Sciamma,2019,França,Drama
+Vingadores: ultimato,Joe Russo,2019,EUA,Ficção
+Assassinato às Cegas,Sriram Raghavan,2018,Índia,Policial
+Bird box,Susanne Bier,2018,EUA,Ficção
+Bohemian Rhapsody,Bryan Singer,2018,EUA,Drama
+Cafarnaum,Nadine Labaki,2018,Líbano,Drama
+Desejo de matar 2018,Eli Roth,2018,EUA,Policial
+Green book: o guia,Peter Farrely,2018,EUA,Drama
+Homem-Aranha no Aranhaverso,Bob Persichetti,2018,EUA,Animação
+Vingadores Guerra infinita,Joe Russo,2018,EUA,Ficção
+A forma da água,Guilherme Del Toro,2017,EUA,Drama
+Corra!,Jordan Peele,2017,EUA,Terror
+Dunkirk,Christopher Nolan,2017,Reino Unido,Guerra
+Logan,James Mangold,2017,EUA,Aventura
+Neve Negra,Martin Hodara,2017,Argentina,Drama
+O destino de uma nação,Joe Wright,2017,Reino Unido,Guerra
+O outro irmão,Israel Adrian,2017,Argentina,Drama
+Órbita 9,Hatem Khraiche,2017,Espanha,Ficção
+Roma,Alfonso Cuaron,2017,EUA,Drama
+Shimmer Lake,Oren Uziel,2017,EUA,Policial
+The post,Steven Spielberg,2017,EUA,Drama
+Três anúncios para um crime,Martin McDonagh,2017,EUA,Drama
+Vikram Vedha, Gayatri,2017,Índia,Aventura
+Viva: A Vida é uma Festa,Lee Unkrich,2017,EUA,Animação
+A chegada,Denis Villeneuve,2016,EUA,Drama
+A criada,Chan Wook,2016,China,Drama
+A voz do silêncio,Naoko Yamada,2016,Japão,Animação
+Até o Último Homem,Mel Gibson,2016,EUA,Drama
+Dangal,Nitesh Tiwari,2016,Índia,Drama
+Dinheiro em jogo,Martin Rosete,2016,EUA,Policial
+La La Land: Cantando Estações,Damien Chazelle,2016,EUA,Musical
+Moonlight: Sob a Luz do Luar,Barry Jenkins,2016,EUA,Drama
+No fim do túnel,Rodrigo Grande,2016,Argentina,Drama
+Um contratempo,Oriol Paulo,2016,Espanha,Policial
+Um dia perfeito,Fernando León de Aranoa,2016,Espanha,Guerra
+Your name,Makoto Shinkai,2016,Japão,Animação
+Zootopia,Byron Howard,2016,EUA,Animação
+A chantagem,Nishikant Kamat,2015,Índia,Policial
+A ponte dos espiões,Steven Spielberg,2015,EUA,Drama
+Decisão de risco,Gavin Hookd,2015,EUA,Guerra
+Divertida Mente,Pete Docter,2015,EUA,Animação
+Kingsman: serviço secreto,Matthew Vaughn,2015,Reino Unido,Ação
+Mad Max: Estrada da Fúria,George Miller,2015,Austrália,Aventura
+O Quarto de Jack,Lenny Abrahamson,2015,EUA,Drama
+O regresso,Alejandro González-Iñárritu,2015,EUA,Aventura
+Perdido em marte,Ridley Scott,2015,EUA,Ficção
+Spotlight: Segredos Revelados,Tom McCarthy,2015,EUA,Drama
+Star Wars: O Despertar da Força,J. J. Abrams,2015,EUA,Aventura
+Birdman,Alejandro González-Iñárritu,2014,EUA,Drama
+Boyhood: Da Infância à Juventude,Richard Linklater,2014,EUA,Drama
+Ex-Machina: Instinto Artificial,Alex Garland,2014,EUA,Drama
+Interestelar,Christopher Nolan,2014,EUA,Ficção
+O abutre,Dan Gilroy,2014,EUA,Drama
+O Grande Hotel Budapeste,Wes Anderson,2014,EUA,Comédia
+Relatos Selvagens,Damián Szifron,2014,Argentina,Drama
+RoboCop 2014,José Padilha,2014,EUA,Ficção
+Um dia difícil,Kim Seon Hun,2014,Coreia do Sul,Policial
+Uma Aventura Lego,Phil Lord,2014,EUA,Animação
+Whiplash: Em Busca da Perfeição,Damien Chazelle,2014,EUA,Drama
+12 Anos de Escravidão,Steve McQueen,2013,EUA,Drama
+A grande beleza,Paolo Sorrentino,2013,Itália,Drama
+Elysuym,Neill Blomkamp,2013,EUA,Ficção
+Gravidade,Alfonso Cuaron,2013,EUA,Ficção
+O Lobo de Wall Street,Martin Scorsese,2013,EUA,Drama
+Os Suspeitos 2013,Denis Villeneuve,2013,EUA,Policial
+Rush: No Limite da Emoção,Ron Howard,2013,EUA,Aventura
+Tangerinas,Zaza Urushadze,2013,Georgia,Drama
+007 Operação Skyfall,Sam Mendes,2012,EUA,Aventura
+A Caça,Thomas Vinterberg,2012,Suécia,Drama
+A vida de Pi,Ang Lee,2012,EUA,Drama
+Argo,Ben Affleck,2012,EUA,Drama
+Batman: O Cavaleiro das Trevas Ressurge,Christopher Nolan,2012,EUA,Aventura
+Django Livre,Quentin Tarantino,2012,EUA,Drama
+Ela,Spike Jonze,2012,EUA,Ficção
+Gangues de Wasseypur,Anurag Kashyap,2012,Índia,Policial
+Garota Exemplar,David Fincher,2012,EUA,Drama
+Lincoln,Steven Spielberg,2012,EUA,Drama
+O grande Gatsby,Baz Luhrmann,2012,EUA,Drama
+O voo,Robert Zemeckis,2012,EUA,Drama
+Os miseráveis,Tom Hooper,2012,EUA,Drama
+A invenção de Hugo Cabret,Martin Scorsese,2011,EUA,Drama
+A Separação,Asghar Farhadi,2011,Irã,Drama
+Drive,Nicolas Winding Refn,2011,EUA,Drama
+Guerreiro,Gavin O'Connor,2011,EUA,Drama
+Harry Potter e as Relíquias da Morte: Parte II ,David Yates,2011,EUA,Aventura
+Intocáveis,Olivier Nakache,2011,França,Drama
+Missão impossível protocolo fantasma,Brad Bird,2011,EUA,Aventura
+O Artista,Michel Hazanavicius,2011,EUA,Drama
+Os descendentes,Alexander Payne,2011,EUA,Comédia
+A origem,Christopher Nolan,2010,EUA,Aventura
+A rede social,David Fincher,2010,EUA,Drama
+Bravura Indômita,Joel e Ethan Cohen,2010,EUA,Western
+Cisne Negro,Darren Aronofsky,2010,EUA,Drama
+Como Treinar o Seu Dragão,Dean DeBlois,2010,EUA,Animação
+Deixe-me entrar,Matt Reeves,2010,EUA,Terror
+Hamilton,Thomas Kail,2010,EUA,Drama
+Ilha do medo,Martin Scorsese,2010,EUA,Drama
+Incêndios,Denis Villeneuve,2010,Canadá,Drama
+Kick ass – quebrando tudo,Christopher Mintz-Plasse,2010,EUA,Aventura
+Lobisomem,Joe Johnston,2010,EUA,Terror
+Toy Story 3,Lee Unkrich,2010,EUA,Animação
+Tropa de elite II o inimigo agora é outro,José Padilha,2010,Brasil,Policial
+3 Idiotas,Rajkumar Hirani,2009,Índia,Comédia
+A fita branca,Michael Haneke,2009,Alemanha,Drama
+A onda,Dennis Gansel,2009,Alemanha,Drama
+Amor sem escalas,Jason Reitman,2009,EUA,Comédia
+Avatar,James Cameron,2009,EUA,Aventura
+Bastardos inglórios,Quentin Tarantino,2009,EUA,Guerra
+Código de conduta,F Gary Gray,2009,EUA,Policial
+Distrito 9,Neill Blomkamp,2009,África do Sul,Ficção
+Educação,Lone Scherfig,2009,Inglaterra,Drama
+Guerra ao terror,Kathryn Bigelow,2009,EUA,Guerra
+Harry Potter e o Enigma do Príncipe,David Yates,2009,EUA,Aventura
+Mary e Max: Uma Amizade Diferente,Adam Elliott,2009,EUA,Animação
+O Segredo dos Seus Olhos,Juan Jose Campanella,2009,Argentina,Drama
+"Se beber, não case",Todd Phillips,2009,EUA,Comédia
+Sempre ao Seu Lado,Lasse Hallström,2009,Inglaterra,Drama
+Star Trek,J. J. Abrams,2009,EUA,Ficção
+Up: Altas Aventuras,Pete Docter,2009,EUA,Animação
+A partida,Yojiro Takita,2008,Japão,Drama
+A Wednesday,Neeraj Pandey,2008,Índia,Drama
+Austrália,Baz Luhrmann,2008,EUA,Drama
+Batman: O Cavaleiro das Trevas,Christopher Nolan,2008,EUA,Aventura
+Ensaio sobre a cegueira,Fernando Meirelles,2008,Brasil,Drama
+Gomorra,Matteo Garrone,2008,Itália,Drama
+Gran Torino,Clint Eastwood,2008,EUA,Drama
+Homem de ferro,Jon Favreau,2008,EUA,Aventura
+Na mira do chefe,Martin McDonagh,2008,EUA,Drama
+O curioso caso de Benjamin Button,David Fincher,2008,EUA,Drama
+O lutador,Darren Aronofsky,2008,EUA,Drama
+O menino do pijama listrado,Mark Herman,2008,EUA,Guerra
+Quem quer ser um milionário?,Danny Boyle,2008,EUA,Drama
+Rede de mentiras,Ridley Scott,2008,EUA,Drama
+Sangue negro,Paul Thomas Anderson,2008,EUA,Drama
+Um ato de liberdade,Edward Zwick,2008,EUA,Guerra
+WALL·E,Andrew Stanton,2008,EUA,Animação
+Antes que o diabo saiba que você está morto,Sidney Lumet,2007,EUA,Drama
+Borat,Larry Charles,2007,EUA,Comédia
+Chumbo Grosso,Edgar Wright,2007,EUA,Aventura
+Como Estrelas na Terra, Aamir Khan,2007,Índia,Drama
+Desejo e reparação,Joe Wright,2007,EUA,Drama
+Harry Potter e a Ordem da Fênix,David Yates,2007,EUA,Aventura
+Juno,Jason Reitman,2007,EUA,Animação
+Na natureza selvagem,Sean Penn,2007,EUA,Aventura
+O escafandro e a borboleta,Julian Schnabel,2007,EUA,Drama
+O gângster,Ridley Scott,2007,EUA,Policial
+O Ultimato Bourne,Paul Greengrass,2007,EUA,Aventura
+Onde os Fracos Não Têm Vez,Joel e Ethan Cohen,2007,EUA,Drama
+Os reis da rua,David Ayer,2007,EUA,Policial
+Piratas do Caribe: No Fim do Mundo,Gore Verbinski,2007,EUA,Aventura
+Ratatouille,Brad Bird,2007,EUA,Animação
+Sentença de morte,James Wan,2007,EUA,Policial
+Tropa de elite,José Padilha,2007,Brasil,Policial
+Valente,Neil Jordan,2007,EUA,Policial
+Zodíaco,David Fincher,2007,EUA,Policial
+007 Cassino Royale,Martin Campbell,2006,EUA,Aventura
+16 quadras,Richard Donner,2006,EUA,Policial
+300,Zack Snyder,2006,EUA,Aventura
+A culpa é do Fidel,Julie Gavras,2006,França,Drama
+A maldição da flor dourada,Zhang Yimou,2006,China,Drama
+A Rainha,Stephen Frears,2006,EUA,Drama
+A vida dos outros,Florian Henckel von Donnersmarck,2006,Alemanha,Drama
+Apocalypto,Mel Gibson,2006,EUA,Drama
+Babel,Alejandro González-Iñárritu,2006,EUA,Drama
+Diamante de sangue,Edward Zwick,2006,EUA,Drama
+Filhos da esperança,Alfonso Cuaron,2006,EUA,Aventura
+O contrato,Bruce Beresford,2006,EUA,Policial
+O diabo veste Prada,David Frankel,2006,EUA,Comédia
+O grande truque,Christopher Nolan,2006,EUA,Drama
+O labirinto do fauno,Guilherme Del Toro,2006,EUA,Drama
+O plano perfeito,Spike Lee,2006,EUA,Policial
+O sacrifício,Neil LaBute,2006,EUA,Suspense
+O último rei da Escócia,Kevin MacDonald,2006,Inglaterra,Drama
+Orgulho e preconceito,Joe Wright,2006,EUA,Drama
+Os infiltrados,Martin Scorsese,2006,EUA,Policial
+Pequena Miss Sunshine,Jonathan Dayton e Valerie Faris,2006,EUA,Comédia
+Perfume a história de um assassino,Tom Tykwer,2006,Alemanha,Drama
+Pinte de Açafrão,Rakeysh Omprakash Mehra,2006,Índia,Drama
+Piratas do Caribe: O Baú da Morte,Gore Verbinski,2006,EUA,Aventura
+V de vingança,James Mac Teigue,2006,Reino Unido,Ficção
+A fantástica fábrica de chocolate,Tim Burton,2005,EUA,Aventura
+Assalto à 13a DP,Jean-François Richet,2005,EUA,Policial
+Batman Begins,Christopher Nolan,2005,EUA,Aventura
+Crash - No limite,Paul Haggis,2005,EUA,Drama
+Harry Potter e o Cálice de Fogo,Mike Newell,2005,EUA,Aventura
+Meu Pai e Meu Filho,Çagan Irmak,2005,Turquia,Drama
+Munique,Steven Spielberg,2005,EUA,Drama
+O albergue,Eli Roth,2005,EUA,Terror
+O jardineiro fiel,Fernando Meirelles,2005,EUA,Drama
+O segredo de Broke Back Mountain,Ang Lee,2005,EUA,Drama
+Os produtores,Susan Stroman,2005,EUA,Comédia
+Sin city,Robert Rodiguez,2005,EUA,Policial
+Sodado anônimo,Sam Mendes,2005,EUA,Guerra
+Terra dos mortos,George Romero,2005,EUA,Terror
+A paixão de Cristo,Mel Gibson,2004,EUA,Drama
+A Queda! As Últimas Horas de Hitler,Oliver Hirschbiegel,2004,Alemanha,Guerra
+Antes do pôr do sol,Richard Linklater,2004,EUA,Drama
+Brilho Eterno de uma Mente Sem Lembrança,Michael Gondry,2004,EUA,Drama
+Closer - perto demais,Mike Nichols,2004,EUA,Drama
+Colateral,Michael Mann,2004,EUA,Policial
+Diários de motocicleta,Walter Salles,2004,Brasil,Drama
+Harry Potter e o Prisioneiro de Azkaban,Alfonso Cuaron,2004,EUA,Aventura
+Homem aranha 2,Sam Raimi,2004,EUA,Aventura
+Hotel Ruanda,Terry George,2004,EUA,Drama
+Jogos mortais,James Wan,2004,EUA,Terror
+Kill Bill: Volume 2,Quentin Tarantino,2004,EUA,Drama
+Madrugada dos mortos,Zack Snyder,2004,EUA,Terror
+Mar adentro,Alejandro Amenábar,2004,Espanha,Drama
+Matadores de velhinha,Joel e Ethan Cohen,2004,EUA,Comédia
+Menina de ouro,Clint Eastwood,2004,EUA,Drama
+O aviador,Martin Scorsese,2004,EUA,Drama
+O Castelo Animado,Hayao Miyazaki,2004,Japão,Animação
+O clã das adagas voadoras,Zhang Yimou,2004,China,Drama
+O expresso polar,Robert Zemeckis,2004,EUA,Animação
+Os incríveis,Brad Bird,2004,EUA,Animação
+Shrek 2,Andrew Adamson,2004,EUA,Animação
+Sideways - entre umas e outras,Alexander Payne,2004,EUA,Drama
+Todo mundo quase morto,Edgar Wright,2004,EUA,Terror
+21 gramas,Alejandro González-Iñárritu,2003,EUA,Drama
+"Adeus, Lênin",Wolfgang Becker,2003,Alemanha,Comédia
+As invasões bárbaras,Denys Arcand,2003,Canadá,Drama
+Coisas belas e sujas,Stephen Frears,2003,EUA,Drama
+Cold mountain,Anthony Minghella,2003,EUA,Drama
+Dogville,Lars Von Trier,2003,França,Drama
+Encontros e desencontros,Sophia Coppola,2003,EUA,Drama
+Johnny English,Peter Howit,2003,Reino Unido,Comédia
+Kill Bill: Volume 1,Quentin Tarantino,2003,EUA,Drama
+Memórias de um Assassino,Joon Ho Bong,2003,Coreia do Sul,Policial
+Munna Bhai M.B.B.S.,Rajkumar Hirani,2003,Índia,Comédia
+O Senhor dos Anéis: O Retorno do Rei,Peter Jackson,2003,EUA,Aventura
+Oldboy,Chan Wook,2003,Coreia do Sul,Policial
+Peixe grande e suas histórias maravilhosas,Tim Burton,2003,EUA,Drama
+Piratas do Caribe: a maldição do pérola negra,Gregor Verbinski,2003,EUA,Aventura
+Procurando Nemo,Andrew Stanton,2003,EUA,Animação
+Sobre meninos e lobos,Clint Eastwood,2003,EUA,Policial
+Todo poderoso,Tom Shadyac,2003,EUA,Comédia
+A era do gelo,Chris Wedge,2002,EUA,Animação
+A última noite,Spike Lee,2002,EUA,Drama
+Adaptação,Spike Jonze,2002,EUA,Comédia
+As Confissões de Schimidt,Alexander Payne,2002,EUA,Comédia
+As horas,Stephen Daldry,2002,EUA,Drama
+Chicago,Rob Marshall,2002,EUA,Musical
+Cidade de Deus,Fernando Meirelles,2002,Brasil,Drama
+Conflitos Internos,Wai-Keung Lau,2002,China,Policial
+Fale com ela,Pedro Almodóvar,2002,Espanha,Drama
+Harry Potter e a Câmara Secreta,Chris Columbus,2002,EUA,Aventura
+Herói,Zhang Yimou,2002,China,Drama
+Homem aranha,Sam Raimi,2002,EUA,Aventura
+Identidade Bourne,Doug Liman,2002,EUA,Aventura
+Infidelidade,Adrian Lyne,2002,EUA,Drama
+O Discurso do Rei,Tom Hooper,2002,EUA,Drama
+O pianista,Roman Polanski,2002,França,Guerra
+O quarto do pânico,David Fincher,2002,EUA,Suspense
+O Senhor dos Anéis: As Duas Torres,Peter Jackson,2002,EUA,Aventura
+Por um fio,Joel Schumacher,2002,EUA,Policial
+Prenda-me Se For Capaz,Steven Spielberg,2002,EUA,Policial
+Solaris,Steven Soderbergh,2002,EUA,Ficção
+A caminho de Kandahar,Monsen Makhmalbaf,2001,Irã,Drama
+A última ceia,Marc Forster,2001,EUA,Drama
+A Viagem de Chihiro, Hayao Miyazaki,2001,Japão,Animação
+A.I. inteligencia artificial,Steven Spielberg,2001,EUA,Ficção
+Abril despedaçado,Walter Salles,2001,Brasil,Drama
+Cidade dos sonhos,David Lynch,2001,EUA,Drama
+Círculo de fogo,Jean-Jacques Annaud,2001,EUA,Guerra
+Dia de treinamento,Antoine Fucqua,2001,EUA,Policial
+Donnie Darko,Richard Kelly,2001,EUA,Drama
+Harry Potter e a Pedra Filosofal,Chris Columbus,2001,EUA,Aventura
+Histórias Cruzadas,Tate Taylor,2001,EUA,Drama
+Monstros S.A.,Pete Docter,2001,EUA,Animação
+Moulin Rouge,Baz Luhrmann,2001,EUA,Musical
+O amor é cego,Bobby Farrelly,2001,EUA,Comédia
+O Fabuloso Destino de Amélie Poulain,Jean-Pierre Jeunet,2001,França,Comédia
+O Senhor dos Anéis: A Sociedade do Anel,Peter Jackson,2001,EUA,Aventura
+Onze homens e um segredo,Steven Soderbergh,2001,EUA,Drama
+Os outros,Alejandro Amenábar,2001,EUA,Suspense
+Shrek, Andrew Adamson,2001,EUA,Animação
+Uma mente brilhante,Ron Howard,2001,EUA,Drama
+Amnésia,Christopher Nolan,2000,EUA,Drama
+Amor à Flor da Pele,Kar-Wai Wong,2000,China,Drama
+Amores brutos,Alejandro González-Iñárritu,2000,México,Drama
+Brother a máfia japonesa Yakusa em Los Angeles,Takeshi Kitano,2000,EUA,Policial
+"E aí meu irmão, cadê você",Joel e Ethan Cohen,2000,EUA,Comédia
+Gladiador,Ridley Scott,2000,EUA,Aventura
+Hera Pheri,Priyadarshan,2000,Índia,Musical
+Nove rainhas,Ricardo Darin,2000,Argentina,Drama
+O tigre e o dragão,Ang Lee,2000,Taiwan,Drama
+Psicopata Americano,Mary Harron,2000,EUA,Drama
+Réquiem para um sonho,Darren Aronofsky,2000,EUA,Drama
+Snatch: Porcos e Diamantes,Guy Ritchie,2000,EUA,Comédia
+Traffic,Steven Soderbergh,2000,EUA,Policial
+8 mm,Joel Schumacher,1999,EUA,Policial
+A bruxa de Blair,Daniel Myrick e Eduardo Sánchez,1999,EUA,Terror
+À espera de um milagre,Frank Darabont,1999,EUA,Drama
+As virgens suicidas,Sophia Coppola,1999,EUA,Drama
+Beleza americana,Sam Mendes,1999,EUA,Drama
+Clube da luta,David Fincher,1999,EUA,Drama
+Magnólia,Paul Thomas Anderson,1999,EUA,Drama
+Matrix,Andy Wachowski e Larry Wachowski,1999,EUA,Ficção
+O informante,Michael Mann,1999,EUA,Drama
+O sexto sentido,M. Night Shyamalan,1999,EUA,Suspense
+O talentoso Ripley,Anthony Minghella,1999,EUA,Drama
+Tempo de glória,Edward Zwick,1999,EUA,Guerra
+Toy Story 2,John Lasseter,1999,EUA,Animação
+Três reis,David Russell,1999,EUA,Guerra
+Tudo sobre minha mâe,Pedro Almodóvar,1999,Espanha,Comédia
+A outra história americana,Tony Kaye,1998,EUA,Drama
+Além da linha vermelha,Terrence Malick,1998,EUA,Guerra
+Central do Brasil,Walter Salles,1998,Brasil,Drama
+Cidade das sombras,Alex Proyas,1998,EUA,Ficção
+"Jogos, trapaças e dois canos fumegantes",Guy Ritchie,1998,EUA,Comédia
+Ligações perigosas,Stephen Frears,1998,EUA,Drama
+O grande Lebowski,Joel e Ethan Cohen,1998,EUA,Comédia
+O resgate do soldado Ryan,Steven Spielberg,1998,EUA,Guerra
+O show de Truman,Peter Weir,1998,EUA,Drama
+Pi,Darren Aronofsky,1998,EUA,Ficção
+Shakespeare Apaixonado,John Madden,1998,EUA,Comédia
+Um plano simples,Sam Raimi,1998,EUA,Policial
+Vida de inseto,John Lasseter,1998,EUA,Animação
+A vida é bela,Roberto Benigni,1997,Itália,Comédia
+Boogie Nights: Prazer Sem Limites,Paul Thomas Anderson,1997,EUA,Drama
+Contato,Robert Zemeckis,1997,EUA,Ficção
+Donnie Brasco,Mike Newell,1997,EUA,Drama
+Filhos do Paraíso,Majid Majidi,1997,Irã,Drama
+Força aérea um,Wolfgang Petersen,1997,EUA,Suspense
+Gattaca experiência genética,Andrew Niccol,1997,EUA,Ficção
+Gênio Indomável,Gus Van Sant,1997,EUA,Drama
+Lolita,Adrian Lyne,1997,EUA,Drama
+Los Angeles: Cidade Proibida,Curtis Hanson,1997,EUA,Policial
+Melhor é impossível,James Brooks,1997,EUA,Comédia
+No limite,Lee Tamahon,1997,EUA,Drama
+O advogado do diabo,Taylor Hackford,1997,EUA,Drama
+Princesa Mononoke,Hayao Miyazaki,1997,Japão,Animação
+Titanic,James Cameron,1997,EUA,Drama
+Vidas em jogo,David Fincher,1997,EUA,Suspense
+Fargo: Uma Comédia De Erros,Joel e Ethan Cohen,1996,EUA,Policial
+Missão Impossível,Brian de Palma,1996,EUA,Aventura
+O Bandido,Yavuz Turgul,1996,Turquia,Drama
+O Paciente Inglês,Anthony Minghella,1996,EUA,Drama
+Trainspotting - Sem Limites,Danny Boyle,1996,Inglaterra,Drama
+Antes do amanhecer,Richard Linklater,1995,EUA,Drama
+As pontes de Madison,Clint Eastwood,1995,EUA,Drama
+Babe o porquinho atrapalhado,Chris Noonan,1995,EUA,Comédia
+Cassino,Martin Scorsese,1995,EUA,Drama
+Coração Valente,Mel Gibson,1995,EUA,Drama
+Despedida em Las Vegas,Mike Figgis,1995,EUA,Drama
+Fogo contra fogo,Michael Mann,1995,EUA,Policial
+O Ódio,Mathieu Kassovitz,1995,França,Drama
+Os 12 Macacos,Terry Gilliam,1995,EUA,Ficção
+Os suspeitos 1995,Bryan Singer,1995,EUA,Policial
+Razão e sensibilidade,Ang Lee,1995,EUA,Drama
+Ricardo III,Richard Loncraine,1995,EUA,Drama
+Seven: os sete crimes capitais,David Fincher,1995,EUA,Policial
+Toy Story,John Lasseter,1995,EUA,Animação
+Underground mentiras de guerra,Emir Kusturica,1995,Bósnia e Herzegovnia,Drama
+Andaz Apna Apna,Rajkumar Santoshi,1994,Índia,Comédia
+Assassinos por natureza,Oliver Stone,1994,EUA,Policial
+Cova rasa,Danny Boyle,1994,EUA,Suspense
+Entrevista com o vampiro,Neil Jordan,1994,EUA,Terror
+Forrest Gump: O Contador de Histórias,Robert Zemeckis,1994,EUA,Drama
+O profissional,Luc Besson,1994,EUA,Drama
+O rei leão,Roger Allers e Rob Minkoff,1994,EUA,Animação
+Pulp fiction: tempo de violência,Quentin Tarantino,1994,EUA,Policial
+Quatro casamentos e um funeral,Mike Newell,1994,EUA,Comédia
+Um sonho de liberdade,Frank Darabont,1994,EUA,Drama
+A lista de Schindler,Steven Spielberg,1993,EUA,Guerra
+"Adeus, minha concubina",Chen Kaige,1993,China,Drama
+Em nome do pai,James Sheridan,1993,Irlanda,Drama
+Feitiço do tempo,Harold Ramis,1993,EUA,Comédia
+Jurassic Park: O Parque dos Dinossauros,Steven Spielberg,1993,EUA,Aventura
+Na linha de fogo,Wolfgang Petersen,1993,EUA,Suspense
+O fugitivo,Andrew Davis,1993,EUA,Policial
+O piano,Jane Campion,1993,Nova Zelândia,Drama
+Um dia de fúria,Joel Schumacher,1993,EUA,Drama
+Vestígios do dia,James Ivory,1993,EUA,Drama
+A firma,Sidney Pollack,1992,EUA,Drama
+Aladdin,Ron Clements,1992,EUA,Animação
+Cães de aluguel,Quentin Tarantino,1992,EUA,Policial
+Dracula de Bran Stocker,Francis Ford Coppola,1992,EUA,Terror
+Instinto selvagem,Paul Verhoeven,1992,EUA,Suspense
+Mudança de hábito,Emile Ardolino,1992,EUA,Comédia
+Noites calmas,Keith Gordon,1992,EUA,Guerra
+O jogador,Robert Altmann,1992,EUA,Comédia
+Os imperdoáveis,Clint Eastwood,1992,EUA,Western
+Perfume de mulher,Martin Brest,1992,EUA,Drama
+Retorno a Howard's End,James Ivory,1992,EUA,Drama
+Traídos pelo desejo,Neil Jordan,1992,EUA,Drama
+A Bela e a Fera,Gary Trousdale,1991,EUA,Animação
+Baraka,Ron Fricke,1991,EUA,Documentário
+Barton Fink,Joel e Ethan Cohen,1991,EUA,Comédia
+Bugsy,Barry Levinson,1991,EUA,Drama
+JFK a verdade que não quer calar,Oliver Stone,1991,EUA,Drama
+Kafka,Steven Soderbergh,1991,EUA,Drama
+Lanternas vermelhas,Zhang Yimou,1991,China,Drama
+O Exterminador do Futuro 2: O Julgamento Final,James Cameron,1991,EUA,Ficção
+O silêncio dos inocentes,Jonathan Demme,1991,EUA,Suspense
+Thelma e Louise,Ridley Scott,1991,EUA,Drama
+Tomates verdes fritos,John Avnet,1991,EUA,Drama
+Caçada ao outubro vermelho,John McTiernan,1990,EUA,Drama
+Dança com lobos,Kevin Costner,1990,EUA,Western
+Edward mãos de tesoura,Tim Burton,1990,EUA,Comédia
+Esqueceram de mim,Chris Columbus,1990,EUA,Comédia
+O poderoso chefão III,Francis Ford Coppola,1990,EUA,Drama
+"Alien, o oitavo passageiro",Ridley Scott,1989,EUA,Ficção
+Conduzindo Miss Daisy,Bruce Beresford,1989,EUA,Drama
+Faça a coisa certa,Spike Lee,1989,EUA,Drama
+Indiana Jones e a Última Cruzada,Steven Spielberg,1989,EUA,Aventura
+Nascido em 4 de julho,Oliver Stone,1989,EUA,Guerra
+Pecados de guerra,Brian de Palma,1989,EUA,Guerra
+Sociedade dos poetas mortos,Peter Weir,1989,EUA,Drama
+A última tentação de Cristo,Martin Scorsese,1988,EUA,Drama
+Akira,Katsushiro Otomo,1988,Japão,Animação
+Cinema Paradiso,Giuseppe Tornatore,1988,Itália,Drama
+Corra que a polícia vem aí,David Zucker,1988,EUA,Comédia
+Duro de matar,John McTiernan,1988,EUA,Policial
+Meu Amigo Totoro,Hayao Miyazaki,1988,Japão,Animação
+Mississipi em chamas,Allan Parker,1988,EUA,Drama
+Mulheres à beira de um ataque de nervos,Pedro Almodóvar,1988,Espanha,Comédia
+O turista acidental,Lawrence Kasdam,1988,EUA,Drama
+Os safados,Frank Oz,1988,EUA,Comédia
+Rain man,Barry Levinson,1988,EUA,Drama
+Túmulo dos Vagalumes,Isao Takahata,1988,Japão,Animação
+A Princesa Prometida,Rob Reiner,1987,EUA,Aventura
+Amazonas na lua,Joe Dante,1987,EUA,Comédia
+Asas do desejo,Win Wenders,1987,Alemanha,Drama
+Atração fatal,Adrian Lyne,1987,EUA,Suspense
+Coração satânico,Allan Parker,1987,EUA,Drama
+Hellraiser: renascido do inferno,Clive Barker,1987,EUA,Terror
+Homens de preto,Barry Sonnenfeld,1987,EUA,Ficção
+Inimigo íntimo,Alan Pakula,1987,EUA,Drama
+Nascido Para Matar,Stanley Kubrick,1987,EUA,Guerra
+O último imperador,Bernardo Bertolucci,1987,EUA,Drama
+Os intocáveis,Brian de Palma,1987,EUA,Policial
+RoboCop 1987,Paul Verhoeven,1987,EUA,Policial
+A missão,Roland Joffé,1986,EUA,Drama
+"Aliens, O Resgate",James Cameron,1986,EUA,Ficção
+Betty Blue,Jean-Jacques Beineix,1986,França,Drama
+Conta comigo,Rob Reiner,1986,EUA,Drama
+Curtindo a vida adoidado,John Huges,1986,EUA,Comédia
+Hannah e suas irmãs,Woody Allen,1986,EUA,Drama
+O bandido da luz vermelha,Rogério Sganzerla,1986,Brasil,Policial
+O declínio do império americano,Denys Arcand,1986,Canadá,Drama
+Os bons companheiros,Martin Scorsese,1986,EUA,Drama
+Platoon,Oliver Stone,1986,EUA,Guerra
+Brazil o filme,Terry Gilliam,1985,EUA,Ficção
+De volta para o futuro,Robert Zemeckis,1985,EUA,Ficção
+Depois de horas,Martin Scorsese,1985,EUA,Comédia
+Entre Dois Amores,Sydney Pollack,1985,EUA,Drama
+Nashville,Robert Altmann,1985,EUA,Musical
+Os Caçadores da Arca Perdida,Steven Spielberg,1985,EUA,Aventura
+Ran,Akira Kurosawa,1985,Japão,Drama
+Silverado,Lawrence Kasdam,1985,EUA,Western
+Vá e Veja,Elem Klimov,1985,URSS,Guerra
+Amadeus,Milos Forman,1984,EUA,Drama
+Dublê de corpo,Brian de Palma,1984,EUA,Suspense
+Era uma vez na América,Sergio Leone,1984,Itália,Drama
+Memórias do cárcere,Nelson Pereira dos Santos,1984,Brasil,Drama
+Nausicaä do Vale do Vento,Hayao Miyazaki,1984,Japão,Animação
+O exterminador do futuro,James Cameron,1984,EUA,Aventura
+Os caça-fantasmas,Ivan Reitman,1984,EUA,Comédia
+"Paris, Texas",Win Wenders,1984,EUA,Drama
+Passagem para a Índia,David Lean,1984,EUA,Drama
+Tudo por uma esmeralda,Robert Zemeckis,1984,EUA,Aventura
+Jogos de guerra,John Badham,1983,EUA,Ficção
+O Retorno de Jedi,Richard Marquand,1983,EUA,Ficção
+Scarface,Brian de Palma,1983,EUA,Drama
+Videodrome - a síndrome do vídeo,David Cronenberg,1983,EUA,Ficção
+Zelig,Woody Allen,1983,EUA,Comédia
+A escolha de Sofia,Allan Pakula,1982,EUA,Drama
+"Blade Runner, o Caçador de Andróides",Ridley Scott,1982,EUA,Ficção
+"Conan, o bárbaro",John Milius,1982,EUA,Aventura
+E.T. o extraterrestre,Steven Spielberg,1982,EUA,Ficção
+Fanny e Alexandre,Ingmar Bergman,1982,Suécia,Drama
+Gandhi,Richard Attenborough,1982,EUA,Drama
+Laços de Ternura,James L. Brooks,1982,EUA,Drama
+O barco: inferno no mar,Wolfgang Petersen,1982,EUA,Guerra
+O Enigma de Outro Mundo,John Carpenter,1982,EUA,Terror
+Pink Floyd the wall,Allan Parker,1982,EUA,Musical
+Quinteto irreverente,Mario Monicelli,1982,Itália,Comédia
+Tootsie,Sidney Pollack,1982,EUA,Comédia
+A mulher do tenente francês,Karel Reisz,1981,Inglaterra,Drama
+Carruagens de Fogo,Hugh Hudson,1981,EUA,Drama
+Cidade das mulheres,Federico Fellini,1981,Itália,Drama
+Corpos ardentes,Lawrence Kasdam,1981,EUA,Drama
+Fuga de Nova York,John Carpenter,1981,EUA,Ficção
+Mephisto,Istvan Szabó,1981,Alemanha,Drama
+Num lago dourado,Mark Rydell,1981,EUA,Drama
+O destino bate à sua porta 1981,Bob Rafelson,1981,EUA,Drama
+Reds,Warren Beatty,1981,EUA,Drama
+Um tiro na noite,Brian de Palma,1981,EUA,Suspense
+Altantic City,Louis Malle,1980,EUA,Drama
+Apertem os Cintos... O Piloto Sumiu,Jim Abrahams,1980,EUA,Comédia
+Calígula,Tinto Brass,1980,EUA,Drama
+Gente como a gente,Robert Redford,1980,EUA,Drama
+Kagemusha a sombra do samurai,Akira Kurosawa,1980,Japão,Drama
+Meu tio da América,Alan Resnais,1980,França,Comédia
+O Homem Elefante,David Lynch,1980,EUA,Drama
+O iluminado,Stanley Kubrick,1980,EUA,Terror
+O Império Contra-Ataca,Irvin Kershner,1980,EUA,Ficção
+Os irmãos cara de pau,John Landis,1980,EUA,Musical
+Pixote a lei do mais fraco,Héctor Babenco,1980,Brasil,Drama
+Touro indomável,Martin Scorsese,1980,EUA,Drama
+Vestida para matar,Brian de Palma,1980,EUA,Suspense
+A Vida de Brian,Terry Jones,1979,Inglaterra,Comédia
+All that jazz,Bob Fosse,1979,EUA,Musical
+Apocalypse now,Francis Ford Coppola,1979,EUA,Guerra
+Bye bye Brasil,Cacá Diegues,1979,Brasil,Comédia
+Fuga de Alcatraz,Don Siegel,1979,EUA,Policial
+Hair,Milos Forman,1979,EUA,Musical
+Kramer Versus Kramer,Robert Benton,1979,EUA,Drama
+Manhattan,Woody Allen,1979,EUA,Drama
+Stalker,Andrei Tarkovsky,1979,URSS,Drama
+Tess,Roman Polanski,1979,EUA,Drama
+A gaiola das loucas,Edouard Molinaro,1978,França,Comédia
+Clube dos cafajestes,John Landis,1978,EUA,Comédia
+Despertar dos mortos,George Romero,1978,EUA,Terror
+Grease nos tempos da brilhantina,Randal Kleiser,1978,EUA,Musical
+Halloween,John Carpenter,1978,EUA,Terror
+Muito além do jardim,Hal Ashby,1978,EUA,Comédia
+O expresso da meia noite,Alan Parker,1978,EUA,Drama
+O Franco Atirador,Michael Cimino,1978,EUA,Guerra
+Contatos imediatos do terceiro grau,Steven Spielberg,1977,EUA,Ficção
+Guerra nas estrelas,George Lucas,1977,EUA,Ficção
+Momento de decisão,Herbert Ross,1977,EUA,Drama
+"Noivo neurótico, noiva nervosa",Woody Allen,1977,EUA,Comédia
+Os embalos de sábado a noite,John Badham,1977,EUA,Drama
+A águia pousou,John Sturges,1976,EUA,Guerra
+A cruz de ferro,Sam Peckimpah,1976,EUA,Guerra
+"Carrie, a estranha",Brian de Palma,1976,EUA,Terror
+Casanova de Felini,Federico Fellini,1976,Itália,Comédia
+"Feios, sujos e malvados",Etore Scola,1976,Itália,Comédia
+Rede de intrigas,Sidney Lumet,1976,EUA,Drama
+"Rocky, um Lutador",John Avildsen,1976,EUA,Drama
+Saló os cento e vinde dias de Sodoma,Pier Paolo Pasolini,1976,Itália,Drama
+Taxi driver,Martin Scorsese,1976,EUA,Drama
+Todos os homens do presidente,Alan Pakula,1976,EUA,Drama
+Barry Lyndon,Stanley Kubrick,1975,EUA,Drama
+Monty Python em Busca do Cálice Sagrado,Terry Gilliam,1975,EUA,Comédia
+Sholay,Ramesh Sippy,1975,Índia,Aventura
+Tubarão,Steven Spielberg,1975,EUA,Aventura
+Um dia de cão,Sidney Lumet,1975,EUA,Drama
+Um estranho no ninho,Milos Forman,1975,EUA,Drama
+A conversação,Francis Ford Coppola,1974,EUA,Drama
+Banzé no oeste,Mel Brooks,1974,EUA,Comédia
+Chinatown,Roman Polanski,1974,EUA,Policial
+O enigma de Kaspar Hauser,Werner Herzog,1974,Alemanha,Drama
+O massacre da serra elétrica,Tobe Hooper,1974,EUA,Terror
+O poderoso chefão II,Francis Ford Coppola,1974,EUA,Drama
+A noite americana,François Truffaut,1973,França,Drama
+Amarcord,Federico Fellini,1973,Itália,Comédia
+American graffiti,George Lucas,1973,EUA,Comédia
+Estado de sítio,Costa Gravas,1973,França,Drama
+Golpe de mestre,George Roy Hill,1973,EUA,Comédia
+O dia do chacal,Fred Zinnemann,1973,EUA,Policial
+O exorcista,William Friedkin,1973,EUA,Terror
+Papillon,Franklin Shaffner,1973,EUA,Drama
+Aguirre a cólera dos deuses,Werner Herzog,1972,Alemanha,Drama
+Amargo pesadelo,John Boorman,1972,EUA,Drama
+Cabaret,Bob Fosse,1972,EUA,Musical
+Gritos e sussurros,Ingmar Bergman,1972,Suécia,Drama
+Irmão sol irmã lua,Franco Zeffirelli,1972,Inglaterra,Drama
+O discreto charme da burguesia,Luis Bunuel,1972,Espanha,Drama
+O poderoso chefão,Francis Ford Coppola,1972,EUA,Drama
+Último tango em Paris,Bernardo Bertolucci,1972,França,Drama
+A classe operária vai ao paraíso,Elio Petri,1971,Itália,Comédia
+A última sessão de cinema,Peter Bogdanovich,1971,EUA,Drama
+Anand,Hrishikesh Mukherjee,1971,Índia,Drama
+Dirty Harry,Don Siegel,1971,EUA,Policial
+Laranja mecânica,Stanley Kubrick,1971,EUA,Ficção
+Operação França,William Friedkin,1971,EUA,Policial
+Sob o domínio do medo,Sam Peckimpah,1971,Inglaterra,Drama
+A filha de Ryan,David Lean,1970,EUA,Drama
+Becket,Peter Glenville,1970,Inglaterra,Drama
+Colossus,Joseph Sargent,1970,EUA,Ficção
+Love Story,Arthur Hiller,1970,EUA,Drama
+M A S H,Robert Altmann,1970,EUA,Guerra
+O conformista,Bernardo Bertolucci,1970,EUA,Drama
+"Patton, Rebelde ou Herói?",Franklin Shaffner,1970,EUA,Guerra
+Vert-te-ei no inferno,Martin Ritt,1970,EUA,Drama
+Ana dos mil dias,Charles Jarrott,1969,EUA,Drama
+Butch Cassidy,George Roy Hill,1969,EUA,Western
+Era uma vez no oeste,Sergio Leone,1969,Itália,Western
+Meu ódio será sua herança,Sam Peckimpah,1969,EUA,Western
+Os deuses malditos,Luchino Visconti,1969,Itália,Drama
+Perdidos na noite,John Schlesinger,1969,EUA,Drama
+Sem destino,Dennis Hopper,1969,EUA,Drama
+2001: Uma Odisseia no Espaço,Stanley Kubrick,1968,EUA,Ficção
+A noite dos mortos vivos,George Romero,1968,EUA,Terror
+Bullit,Peter Yeats,1968,EUA,Policial
+O bebê de Rosemary,Roman Polanski,1968,EUA,Terror
+O leão no inverno,Anthony Harvey,1968,EUA,Drama
+O planeta dos macacos,Franklin Shaffner,1968,EUA,Ficção
+Oliver!,Carol Reed,1968,EUA,Musical
+Um convidado bem trapalhão,Blake Edwards,1968,EUA,Comédia
+A bela da tarde,Luis Bunuel,1967,França,Drama
+A noite dos generais,Anatoli Litvak,1967,França,Guerra
+A primeira noite de um homem,Mike Nichols,1967,EUA,Drama
+A sangue frio,Richard Brooks,1967,EUA,Drama
+Adivinhe quem vem para jantar,Stanley Kramer,1967,EUA,Drama
+As férias do senhor Hulot,Jacques Tati,1967,França,Comédia
+No calor da noite,Norman Jewison,1967,EUA,Drama
+Os doze condenados,Robert Aldrich,1967,Inglaterra,Guerra
+Rebeldia indomável,Stuart Rosenberg,1967,EUA,Aventura
+Terra em transe,Glauber Rocha,1967,Brasil,Drama
+Uma rajada de balas,Arthur Penn,1967,EUA,Policial
+Z,Costa Gravas,1967,Argélia,Drama
+A batalha de Argel,Gillo Pentecorvo,1966,França,Drama
+Andrei Rublev,Andrei Tarkovsky,1966,URSS,Drama
+Blow-up - depois daquele beijo,Michelangelo Antonioni,1966,Inglaterra,Drama
+Farenheit 451,François Truffaut,1966,França,Drama
+O Homem Que Não Vendeu Sua Alma,Fred Zinnemann,1966,EUA,Drama
+Quando Duas Mulheres Pecam,Ingmar Bergman,1966,Suécia,Drama
+Quem tem medo de Virginia Woolf?,Mike Nichols,1966,EUA,Drama
+Três homens em conflito,Sergio Leone,1966,Itália,Western
+A noviça rebelde,Robert Wise,1965,EUA,Musical
+Doutor Jivago,David Lean,1965,EUA,Drama
+Juventude transviada,Nicholas Ray,1965,EUA,Drama
+O colecionador,William Wyler,1965,EUA,Suspense
+Por uns dólares a mais,Sergio Leone,1965,EUA,Western
+Repulsa ao sexo,Roman Polanski,1965,Inglaterra,Drama
+007 contra Goldfinger,Guy Hamilton,1964,Inglaterra,Aventura
+Assim caminha a humanidade,George Stevens,1964,EUA,Drama
+Deus e o diabo na terra do sol,Glauber Rocha,1964,Brasil,Drama
+Doutor Fantástico,Stanley Kubrick,1964,EUA,Drama
+Minha bela dama,George Cukor,1964,EUA,Musical
+Por um punhado de dólares,Sergio Leone,1964,Itália,Western
+8½,Federico Fellini,1963,Itália,Drama
+A pantera cor de rosa,Blake Edwards,1963,EUA,Comédia
+Céu e inferno,Akira Kurosawa,1963,Japão,Drama
+Charada,Stanley Donen,1963,EUA,Policial
+Cleópatra,Joseph Mankiewicz,1963,EUA,Drama
+Fugindo do inferno,John Sturges,1963,EUA,Guerra
+O cardeal,Otto Preminger,1963,EUA,Drama
+O leopardo,Luchino Visconti,1963,Itália,Drama
+O professor aloprado,Jerry Lewis,1963,EUA,Comédia
+Vidas secas,Nelson Pereira dos Santos,1963,Brasil,Drama
+Harakiri,Masaki Kobayashi,1962,Japão,Drama
+Lawrence da Arábia,David Lean,1962,EUA,Drama
+O anjo exterminador,Luis Bunuel,1962,México,Drama
+O grande motim 1962,Lewis Milestone,1962,EUA,Drama
+O homem que matou o facínora,John Ford,1962,EUA,Western
+O pagador de promessas,Anselmo Duarte,1962,Brasil,Drama
+O processo,Orson Welles,1962,França,Drama
+O Que Aconteceu com Baby Jane?,Robert Aldrich,1962,EUA,Drama
+O sol é para todos,Robert Mulligan,1962,EUA,Drama
+Pistoleiros do entardecer,Sam Peckimpah,1962,EUA,Western
+Sob o domínio do mal,John Frankenheimer,1962,EUA,Drama
+A noite,Michelangelo Antonioni,1961,Itália,Drama
+"Amor, sublime amor",Robert Wise,1961,EUA,Musical
+Bonequinha de luxo,Blake Edwards,1961,EUA,Comédia
+Julgamento em Nuremberg,Stanley Kramer,1961,EUA,Drama
+Os canhões de Navarone,J. Lee Tomphson,1961,EUA,Guerra
+Uma mulher para dois,François Truffaut,1961,França,Drama
+Yojimbo,Akira Kurosawa,1961,Japão,Drama
+A doce vida,Federico Fellini,1960,Itália,Drama
+O passado não perdoa,John Huston,1960,EUA,Western
+Os desajustados,John Huston,1960,EUA,Drama
+Psicose,Alfred Hitchcok,1960,EUA,Suspense
+Se meu apartamento falasse,Billy Wilder,1960,EUA,Comédia
+Sete homens e um destino,John Sturges,1960,EUA,Western
+Spartacus,Stanley Kubrick,1960,EUA,Aventura
+Acossado,Jean-Luc Goddard,1959,França,Drama
+Anatomia de um crime,Otto Preminger,1959,EUA,Policial
+Balada do soldado,Gryigori Chukray,1959,URSS,Drama
+Ben-Hur,William Wyler,1959,EUA,Aventura
+Duelo de titãs,John Sturges,1959,EUA,Western
+Intriga internacional,Alfred Hitchcok,1959,EUA,Suspense
+O cão dos Baskervilles,Terence Fisher,1959,EUA,Suspense
+Onde começa o inferno,Howard Hawks,1959,EUA,Western
+Os bravos morrem em pé,Lewis Milestone,1959,EUA,Guerra
+Os incompreendidos,François Truffaut,1959,França,Drama
+Quanto mais quente melhor,Billy Wilder,1959,EUA,Comédia
+A bolha,Irvin S. Yeaworth Jr.,1958,EUA,Terror
+A condessa descalça,Joseph Mankiewicz,1958,EUA,Drama
+A marca da maldade,Orson Welles,1958,EUA,Drama
+A mosca de cabeça branca,Kurt Neumann,1958,EUA,Terror
+Acorrentados,Stanley Kramer,1958,EUA,Drama
+Da terra nascem os homens,William Wyler,1958,EUA,Western
+Gata em teto de zinco quente,Richard Brooks,1958,EUA,Drama
+Gigi,Vincente Minnelli,1958,EUA,Musical
+O vampiro da noite,Terence Fisher,1958,Inglaterra,Terror
+O velho e o mar,John Sturges,1958,EUA,Drama
+Teorema,Pier Paolo Pasolini,1958,Itália,Drama
+Um corpo que cai,Alfred Hitchcok,1958,EUA,Suspense
+12 homens e uma sentença,Sidney Lumet,1957,EUA,Drama
+A ponte do Rio Kwai,David Lean,1957,EUA,Guerra
+A um passo da eternidade,Fred Zinnemann,1957,EUA,Guerra
+Glória feita de sangue,Stanley Kubrick,1957,EUA,Guerra
+Morangos silvestres,Ingmar Bergman,1957,Suécia,Drama
+Noites de Cabíria,Federico Fellini,1957,Itália,Drama
+Plano nove do espaço sideral,Edward Wood,1957,EUA,Ficção
+Testemunha de acusação,Billy Wilder,1957,EUA,Drama
+Trono manchado de sangue,Akira Kurosawa,1957,Japão,Drama
+A trágica farsa,Mark Robson,1956,EUA,Suspense
+A Volta ao Mundo em 80 Dias,Michael Anderson,1956,EUA,Aventura
+Johnny Guitar,Nicholas Ray,1956,EUA,Western
+Moby Dick,John Huston,1956,EUA,Drama
+O grande golpe,Stanley Kubrick,1956,EUA,Suspense
+O sétimo selo,Ingmar Bergman,1956,Suécia,Drama
+Os dez mandamentos,Cecil B. DeMille,1956,EUA,Drama
+Rastros de ódio,John Ford,1956,EUA,Western
+Vampiros de almas,Don Siegel,1956,EUA,Ficção
+A palavra,Carl Theodor Dreyer,1955,Dinamarca,Drama
+As diabólicas,Henri-Georges Clouzot,1955,França,Suspense
+Horas de desespero,William Wyler,1955,EUA,Drama
+Ladrão de casca,Alfred Hitchcok,1955,EUA,Suspense
+Marty,Delbert Man,1955,EUA,Drama
+O mensageiro do diabo,Charles Laughton,1955,EUA,Drama
+O pecado mora ao lado,Billy Wilder,1955,EUA,Comédia
+Rififi,Jules Dassin,1955,França,Policial
+Rio 40 graus,Nelson Pereira dos Santos,1955,Brasil,Drama
+Vidas amargas,Elia Kazan,1955,EUA,Drama
+Disque M para matar,Alfred Hitchcok,1954,EUA,Suspense
+Janela indiscreta,Alfred Hitchcok,1954,EUA,Suspense
+O manto sagrado,Henry Koster,1954,EUA,Drama
+O monstro da lagoa negra,Jack Arnold,1954,EUA,Terror
+Os sete samurais,Akira Kurosawa,1954,Japão,Drama
+Sabrina,Billy Wilder,1954,EUA,Comédia
+Sete noivas para sete irmãos,Stanley Donen,1954,EUA,Musical
+Sindicato de ladrões,Elia Kazan,1954,EUA,Drama
+A canção de Bernadete,Henry King,1953,EUA,Drama
+A princesa e o plebeu,William Wyler,1953,EUA,Comédia
+As Aventuras de Tom Jones,Tony Richardson,1953,EUA,Aventura
+Era uma vez em Tóquio,Kiarostami Ozu,1953,Japão,Drama
+O inferno número 17,Billy Wilder,1953,EUA,Guerra
+O salário do medo,Henri-Georges Clouzot,1953,França,Drama
+O tesouro do condor de ouro,Delmer Daves,1953,EUA,Aventura
+Os brutos também amam,George Stevens,1953,EUA,Western
+Depois do Vendaval,John Ford,1952,EUA,Drama
+Matar ou morrer,Fred Zinnemann,1952,EUA,Western
+O Maior Espetáculo da Terra,Cecil B. DeMille,1952,EUA,Drama
+Scaramouche,George Sidney,1952,EUA,Aventura
+Viver,Akira Kurosawa,1952,Japão,Drama
+A montanha dos sete abutres,Billy Wilder,1951,EUA,Drama
+Cantando na chuva,Gene Kelly e Stanley Donen,1951,EUA,Musical
+O dia em que a terra parou,Robert Wise,1951,EUA,Ficção
+O monstro do Ártico,Howard Hawks,1951,EUA,Drama
+Pacto sinistro,Alfred Hitchcok,1951,EUA,Suspense
+Sinfonia de Paris,Vincente Minnelli,1951,EUA,Musical
+Um americano em Paris,Vincente Minnelli,1951,EUA,Musical
+Um lugar ao sol,George Stevens,1951,EUA,Drama
+Uma aventura na África,John Huston,1951,EUA,Drama
+Uma rua chamada pecado,Elia Kazan,1951,EUA,Drama
+A grande ilusão,Robert Rossen,1950,EUA,Drama
+A malvada,Joseph Mankiewicz,1950,EUA,Drama
+Crepúsculo dos deuses,Billy Wilder,1950,EUA,Drama
+Os esquecidos,Luis Bunuel,1950,Espanha,Drama
+Rashomon,Akira Kurosawa,1950,EUA,Drama
+Stromboli,Roberto Rosselini,1950,Itália,Drama
+O 3º Homem,Carol Reed,1949,EUA,Drama
+O terceiro homem,Carol Reed,1949,Inglaterra,Suspense
+Hamlet,Laurence Olivier,1948,EUA,Drama
+Johnny Belinda,Jean Negulesco,1948,EUA,Drama
+Ladrões de Bicicletas,Vitorio de Sica,1948,Itália,Drama
+O tesouro de Sierra Madre,John Huston,1948,EUA,Western
+Os três mosqueteiros,George Sidney,1948,EUA,Aventura
+A Luz É Para Todos,Elia Kazan,1947,EUA,Drama
+O beijo da morte,Henry Hathaway,1947,EUA,Drama
+Paula,Richard Wallace,1947,EUA,Drama
+À beira do abismo,Howard Hawks,1946,EUA,Drama
+A Felicidade não se compra,Frank Capra,1946,EUA,Drama
+Gilda,Charles Vidor,1946,EUA,Drama
+Interlúdio,Alfred Hitchcok,1946,EUA,Drama
+O destino bate à sua porta 1946,Tay Garnett,1946,EUA,Drama
+Os assassinos,Robert Siodmack,1946,EUA,Policial
+Os melhores anos de nossas vidas,William Wyler,1946,EUA,Drama
+Boulevard do crime,Marcel Carné,1945,França,Drama
+Farrapo Humano,Billy Wilder,1945,EUA,Drama
+"Roma, cidade aberta",Roberto Rosselini,1945,Itália,Drama
+Ivan o terrível,Sergei Eisenstein,1944,URSS,Drama
+Laura,Otto Preminger,1944,EUA,Drama
+O Bom Pastor,Leo McCarey,1944,EUA,Musical
+Pacto de sangue,Billy Wilder,1944,EUA,Drama
+A sombra de uma dúvida,Alfred Hitchcok,1943,EUA,Suspense
+Casablanca,Michael Curtiz,1942,EUA,Drama
+Rosa de Esperança,William Wyler,1942,EUA,Guerra
+Sangue de pantera,Jaques Torneus,1942,EUA,Suspense
+Ser ou não ser,Ernst Lubitsch,1942,EUA,Comédia
+Cidadão Kane,Orson Welles,1941,EUA,Drama
+Como Era Verde o Meu Vale,John Ford,1941,EUA,Drama
+Contrastes humanos,Preston Sturges,1941,EUA,Drama
+O lobisomem,George Waggner,1941,EUA,Terror
+O segredo do pântano,Jean Renoir,1941,EUA,Drama
+Relíquia macabra,John Huston,1941,EUA,Policial
+Sargento York,Howard Hawks,1941,EUA,Guerra
+A canção da vitória,Michael Curtiz,1940,EUA,Musical
+Fantasia,James Algar e outros,1940,EUA,Animação
+Jejum de amor,Howard Hawks,1940,EUA,Comédia
+Núpcias de escândalo,George Cukor,1940,EUA,Comédia
+O grande ditador,Charles Chaplin,1940,EUA,Comédia
+Rebecca: A Mulher Inesquecível,Alfred Hitchcok,1940,EUA,Drama
+Vinhas da ira,John Ford,1940,EUA,Drama
+...E o Vento Levou,Victor Fleming,1939,EUA,Drama
+A mulher faz o homem,Frank Capra,1939,EUA,Drama
+A regra do jogo,Jean Renoir,1939,França,Drama
+No tempo das diligências,John Ford,1939,EUA,Western
+O mágico de Oz,Victor Fleming,1939,EUA,Musical
+O morro dos ventos uivantes,William Wyler,1939,EUA,Drama
+Tempos modernos,Charles Chaplin,1939,EUA,Comédia
+Anjos de cara suja,Micael Curtiz,1938,EUA,Drama
+As aventuras de Robin Hood,Michael Curtiz,1938,EUA,Aventura
+Do mundo nada se leva,Frank Capra,1938,EUA,Drama
+Jezebel,William Wyler,1938,EUA,Drama
+Levada da breca,Howard Hawks,1938,EUA,Comédia
+Branca de Neve e os sete anões,David Hand,1937,EUA,Animação
+Émile Zola,William Dieterle,1937,EUA,Drama
+A dama das camélias,George Cukor,1936,EUA,Drama
+Fogo de outono,William Wyler,1936,EUA,Drama
+O galante Mister Deeds,Frank Capra,1936,EUA,Comédia
+Ritmo Louco,George Stevens,1936,EUA,Musical
+Triunfo da vontade,Leni Riefenstahl,1936,Alemanha,Documentário
+Ziegfeld - O Criador de Estrelas,Robert Z. Leonard,1936,EUA,Musical
+A noiva de Frankenstein,Peter Whale,1935,EUA,Terror
+Capitão Blood,Michael Curtiz,1935,EUA,Aventura
+O grande motim 1935,Frank Lloyd,1935,EUA,Drama
+Uma noite na ópera,Sam Wood,1935,EUA,Comédia
+Aconteceu naquela noite,Frank Capra,1934,EUA,Comédia
+O atalante,Jean Vigo,1934,França,Drama
+Scarface a vergonha de uma nação,Howard Hawks,1934,EUA,Drama
+Diabo a quatro,Leo McCarey,1933,EUA,Comédia
+King Kong,Merian C. Cooper e Ernest B. Schoedsack,1933,EUA,Ficção
+Rainha Cristina,Rouben Mamoulian,1933,EUA,Drama
+39 degraus,Alfred Hitchcok,1932,EUA,Suspense
+A múmia,Karl Freund,1932,EUA,Terror
+Cavalgada,Frank Lloyd,1932,EUA,Drama
+Grande Hotel,Edmund Goulding,1932,EUA,Drama
+Cimarron,Wesley Ruggles,1931,EUA,Western
+Drácula,Tod Browning,1931,EUA,Terror
+Luzes da cidade,Charles Chaplin,1931,EUA,Comédia
+"M, O Vampiro de Dusseldorf",Fritz Lang,1931,Alemanha,Drama
+Frankenstein,James Whale,1930,EUA,Terror
+Sem novidades no front,Lewis Milestone,1930,EUA,Guerra
+Melodia na Broadway,Harry Beaumont,1929,EUA,Musical
+O circo,Charles Chaplin,1928,EUA,Comédia
+O Martírio de Joana D'Arc,Carl Theodor Dreyer,1928,França,Drama
+A general,Buster Keaton,1927,EUA,Comédia
+Asas,William A. Wellman,1927,EUA,Guerra
+Aurora,F.W. Murnau,1927,EUA,Drama
+Encouraçado Potemkin,Sergei Eisenstein,1925,URSS,Guerra
+Bancando águia,Buster Keaton,1924,EUA,Comédia
+Em busca do ouro,Charles Chaplin,1923,EUA,Comédia
+Metrópolis,Fritz Lang,1923,Alemanha,Ficção
+O Garoto,Charles Chaplin,1921,EUA,Comédia
+O gabinete do doutor Caligari,Robert Wiene,1920,Alemanha,Terror
+Intolerância,D.W. Griffith,1916,EUA,Drama
+O nascimento de uma nação,D.W. Griffith,1915,EUA,Drama
