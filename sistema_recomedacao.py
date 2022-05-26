@@ -56,8 +56,7 @@ def MovieRec(username, movies, notas):
         avaliacao[movies[i]] = notas[i]
         users[username] = avaliacao
     
-    if (usersConteudo.get(username)):
-        usersConteudo[username] = vinculaConteudo(username, users, filmesDic)
+    usersConteudo[username] = vinculaConteudo(username, users, filmesDic)
 
     
     recomendacoes = recommend(username, users)
