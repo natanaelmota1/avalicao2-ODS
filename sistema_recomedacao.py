@@ -30,7 +30,7 @@ def recommend(username, users, usersConteudo, filmesDic):
         userRatings = users[username]
         for filme in neighborRatings:
             if ((filme not in userRatings) and (filme not in recommendations)):
-                if (neighborRatings[filme] >= 7) and (contaConteudo(usersConteudo[username], filmesDic[filme]) >= 2):
+                if (neighborRatings[filme] >= 7) and (conteudoPontuacao(usersConteudo[username], filmesDic[filme]) >= 2):
                     recommendations.append((filme, neighborRatings[filme]))
         recommendations = sorted(recommendations,
                             key=lambda filmeTuple: filmeTuple[1],
@@ -156,14 +156,25 @@ def vinculaConteudo(usuario, users, filmesDic):
 
 def conteudoPontuacao(conteudo, filmeDic):
     count = 0
-    if(conteudo["diretor"] == filmeDic["diretor"]):
-        count+=1
-    if(conteudo["ano"] == filmeDic["ano"]):
-        count+=1
-    if(conteudo["pais"] == filmeDic["pais"]):
-        count+=1
-    if(conteudo["genero"] == filmeDic["genero"]):
-        count+=1
+    for diretor in conteudo["diretor"]:
+        if(diretor in filmeDic["diretor"]):
+            count+=1
+            break
+
+    for ano in conteudo["ano"]:
+        if(ano in filmeDic["ano"]):
+            count+=1
+            break
+    
+    for pais in conteudo["pais"]:
+        if(pais == filmeDic["pais"]):
+            count+=1
+            break
+    
+    for genero in conteudo["genero"]:
+        if(genero == filmeDic["genero"]):
+            count+=1
+            break
     return count
 
 # print(MovieRec("Evelyn da Rosa")[1])
