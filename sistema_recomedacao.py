@@ -45,7 +45,7 @@ def MovieRec(username, movies, notas):
     with open('conteudos.json', 'r', encoding='utf-8') as json_file:
         usersConteudo = json.load(json_file)    
 
-    with open('filmes.json', 'r', encoding='utf-8') as file:
+    with open('filmes.json', 'r', encoding='utf-8') as json_file:
         filmesDic = json.load(json_file)
 
     avaliacao = {}
