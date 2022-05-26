@@ -1,4 +1,5 @@
 import csv
+from itertools import count
 import random
 import math
 import json
@@ -19,7 +20,7 @@ def computeNearestneighbor (username, users):
     distances.sort()
     return distances
 
-def recommend(username, users): 
+def recommend(username, users, usersConteudo, filmesDic): 
     nearest = computeNearestneighbor (username, users)
     recommendations = []
     kVizinhos = []
@@ -29,7 +30,7 @@ def recommend(username, users):
         userRatings = users[username]
         for filme in neighborRatings:
             if ((filme not in userRatings) and (filme not in recommendations)):
-                if (neighborRatings[filme] >= 7):
+                if (neighborRatings[filme] >= 7) and (contaConteudo(usersConteudo[username], filmesDic[filme]) >= 2):
                     recommendations.append((filme, neighborRatings[filme]))
         recommendations = sorted(recommendations,
                             key=lambda filmeTuple: filmeTuple[1],
@@ -58,8 +59,7 @@ def MovieRec(username, movies, notas):
     
     usersConteudo[username] = vinculaConteudo(username, users, filmesDic)
 
-    
-    recomendacoes = recommend(username, users)
+    recomendacoes = recommend(username, users, usersConteudo, filmesDic)
     with open('avaliacoes.json', 'w', encoding='utf-8') as file:
         json.dump(users, file, ensure_ascii=False, indent=4)
 
@@ -154,5 +154,17 @@ def vinculaConteudo(usuario, users, filmesDic):
     conteudo["genero"] = genero
     return conteudo
 
+def conteudoPontuacao(conteudo, filmeDic):
+    count = 0
+    if(conteudo["diretor"] == filmeDic["diretor"]):
+        count+=1
+    if(conteudo["ano"] == filmeDic["ano"]):
+        count+=1
+    if(conteudo["pais"] == filmeDic["pais"]):
+        count+=1
+    if(conteudo["genero"] == filmeDic["genero"]):
+        count+=1
+    return count
+
 # print(MovieRec("Evelyn da Rosa")[1])
-geradorAvaliacoes()
+# geradorAvaliacoes()
