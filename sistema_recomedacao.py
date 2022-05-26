@@ -42,28 +42,51 @@ def MovieRec(username, movies, notas):
     with open('avaliacoes.json', 'r', encoding='utf-8') as json_file:
         users = json.load(json_file)
 
+    with open('conteudos.json', 'r', encoding='utf-8') as json_file:
+        usersConteudo = json.load(json_file)    
+
+    with open('filmes.json', 'r', encoding='utf-8') as file:
+        filmesDic = json.load(json_file)
+
     avaliacao = {}
     if (users.get(username)):
         avaliacao = users[username]
+    
+    usersConteudo[username] = vinculaConteudo(username, users, filmesDic)
 
     for i in range(len(movies)):    
         avaliacao[movies[i]] = notas[i]
         users[username] = avaliacao
+
+    
     recomendacoes = recommend(username, users)
     with open('avaliacoes.json', 'w', encoding='utf-8') as file:
-            json.dump(users, file, ensure_ascii=False, indent=4)
+        json.dump(users, file, ensure_ascii=False, indent=4)
+
+    with open('conteudos.json', 'w', encoding='utf-8') as file:
+        json.dump(usersConteudo, file, ensure_ascii=False, indent=4)
+
     return (recomendacoes[0], recomendacoes[1])
 
 def geradorAvaliacoes():
-    filmes = []
     usuarios = []
-    generos = []
+    filmes = []
+    filmesDic = {}
 
     with open('filmes.csv', mode='r', encoding='utf-8') as arq:
         leitor = csv.reader(arq, delimiter=',')
         for coluna in leitor:
             filmes.append(coluna[0])
-            generos.append(coluna[1])
+            conteudo = {}
+            conteudo["diretor"] = coluna[1]
+            conteudo["ano"] = coluna[2]
+            conteudo["pais"] = coluna[3]
+            conteudo["genero"] = coluna[4]
+            filmesDic[coluna[0]] = conteudo
+    
+    with open('filmes.json', 'w', encoding='utf-8') as file:
+        json.dump(filmesDic, file, ensure_ascii=False, indent=4)
+
 
     with open('usuarios.csv', mode='r', encoding='utf-8') as arq:
         leitor = csv.reader(arq, delimiter=',')
@@ -79,13 +102,57 @@ def geradorAvaliacoes():
             if (posicao not in posicoes):
                 posicoes.append(posicao)
         for i in posicoes:        
-            avaliacao[filmes[i]] = random.randint(0, 10), generos[i]
-            
+            avaliacao[filmes[i]] = random.randint(0, 10)
         users[usuario] = avaliacao
-        print(users)
-    
+
     with open('avaliacoes.json', 'w', encoding='utf-8') as file:
         json.dump(users, file, ensure_ascii=False, indent=4)
+    
+    usersConteudo = {}
+
+    for usuario in usuarios:
+        usersConteudo[usuario] = vinculaConteudo(usuario, users, filmesDic)
+        
+    
+    with open('conteudos.json', 'w', encoding='utf-8') as file:
+        json.dump(usersConteudo, file, ensure_ascii=False, indent=4)
+
+def contaConteudo(busca, conteudo, conteudos, filmes):
+    count = 0
+    for key in filmes:
+        filme = conteudos[key]
+        if (filme[conteudo] == busca):
+            count+=1
+    return count
+
+def vinculaConteudo(usuario, users, filmesDic):
+    conteudo = {}
+    diretor = {}
+    ano = {}
+    pais = {}
+    genero = {}
+    for filme in users[usuario]:
+        filmeDic = filmesDic[filme]
+        verifica = diretor.get(filmeDic["diretor"], "null")
+        if (verifica == "null"):
+            diretor[filmeDic["diretor"]] = contaConteudo(filmeDic["diretor"],"diretor", filmesDic, users[usuario])
+        
+        verifica = ano.get(filmeDic["ano"], "null")
+        if (verifica == "null"):
+            ano[filmeDic["ano"]] = contaConteudo(filmeDic["ano"],"ano", filmesDic, users[usuario])
+        
+        verifica = pais.get(filmeDic["pais"], "null")
+        if (verifica == "null"):
+            pais[filmeDic["pais"]] = contaConteudo(filmeDic["pais"],"pais", filmesDic, users[usuario])
+        
+        verifica = genero.get(filmeDic["genero"], "null")
+        if (verifica == "null"):
+            genero[filmeDic["genero"]] = contaConteudo(filmeDic["genero"],"genero", filmesDic, users[usuario])
+    conteudo["diretor"] = diretor
+    conteudo["ano"] = ano
+    conteudo["pais"] = pais
+    conteudo["genero"] = genero
+    return conteudo
 
 # print(MovieRec("Evelyn da Rosa")[1])
 geradorAvaliacoes()
