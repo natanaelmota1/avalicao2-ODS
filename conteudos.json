@@ -1030,5 +1030,63 @@
             "Policial": 2,
             "Aventura": 1
         }
+    },
+    "Paulo": {
+        "diretor": {
+            "Jan Komasa": 1,
+            "Sergio Pablos": 1,
+            "Joe Russo": 1,
+            "Sriram Raghavan": 1,
+            "Fernando Meirelles": 1,
+            "Oriol Paulo": 1,
+            "Christopher Nolan": 1,
+            "Nishikant Kamat": 1,
+            "Makoto Shinkai": 1
+        },
+        "ano": {
+            "2020": 1,
+            "2019": 3,
+            "2018": 1,
+            "2016": 2,
+            "2017": 1,
+            "2015": 1
+        },
+        "pais": {
+            "Polônia": 1,
+            "EUA": 3,
+            "Índia": 2,
+            "Espanha": 1,
+            "Reino Unido": 1,
+            "Japão": 1
+        },
+        "genero": {
+            "Drama": 2,
+            "Animação": 2,
+            "Ficção": 1,
+            "Policial": 3,
+            "Guerra": 1
+        }
+    },
+    "Natanael": {
+        "diretor": {
+            "Joe Russo": 1,
+            "Todd Phillips": 1,
+            "Alfonso Cuaron": 1,
+            "James Mangold": 1,
+            "Bryan Singer": 1
+        },
+        "ano": {
+            "2019": 3,
+            "2017": 1,
+            "2018": 1
+        },
+        "pais": {
+            "EUA": 5
+        },
+        "genero": {
+            "Ficção": 2,
+            "Drama": 2,
+            "Aventura": 1
+        }
     }
 }

@@ -454,5 +454,23 @@
         "O 3º Homem": 5,
         "A chantagem": 4,
         "Green book: o guia": 10
+    },
+    "Paulo": {
+        "Rede de ódio": 6,
+        "Klaus": 3,
+        "Vingadores: ultimato": 10,
+        "Assassinato às Cegas": 6,
+        "Dois Papas": 3,
+        "Um contratempo": 4,
+        "Dunkirk": 3,
+        "A chantagem": 6,
+        "Your name": 4
+    },
+    "Natanael": {
+        "Vingadores: ultimato": 10,
+        "Coringa": 9,
+        "Roma": 6,
+        "Ford vs Ferrari": 7,
+        "Bohemian Rhapsody": 10
     }
 }

@@ -37,7 +37,7 @@ def recommend(username, users, usersConteudo, filmesDic):
                             key=lambda filmeTuple: filmeTuple[1],
                             reverse = True)
     kVizinhos.insert(0, ("Seus matchs de filmes",))
-    recommendations.insert(0, ("Recomendações", "Notas","Gêneros"))
+    recommendations.insert(0, ("Recomendações", "Notas", "Gêneros"))
     return recommendations, kVizinhos
 
 def MovieRec(username, movies, notas):
