@@ -991,5 +991,44 @@
             "Comédia": 1,
             "Ficção": 2
         }
+    },
+    "Max": {
+        "diretor": {
+            "Jan Komasa": 1,
+            "James Gray": 1,
+            "Sergio Pablos": 1,
+            "Eli Roth": 1,
+            "Susanne Bier": 1,
+            "Denis Villeneuve": 1,
+            "Mel Gibson": 1,
+            "Steven Spielberg": 1,
+            "Byron Howard": 1,
+            "James Mangold": 1,
+            "Lee Unkrich": 1,
+            "Carol Reed": 1,
+            "Nishikant Kamat": 1,
+            "Peter Farrely": 1
+        },
+        "ano": {
+            "2020": 1,
+            "2019": 2,
+            "2018": 3,
+            "2016": 3,
+            "2017": 3,
+            "1949": 1,
+            "2015": 1
+        },
+        "pais": {
+            "Polônia": 1,
+            "EUA": 12,
+            "Índia": 1
+        },
+        "genero": {
+            "Drama": 6,
+            "Ficção": 2,
+            "Animação": 3,
+            "Policial": 2,
+            "Aventura": 1
+        }
     }
 }

@@ -31,12 +31,13 @@ def recommend(username, users, usersConteudo, filmesDic):
         for filme in neighborRatings:
             if ((filme not in userRatings) and (filme not in recommendations)):
                 if (neighborRatings[filme] >= 7) and (conteudoPontuacao(usersConteudo[username], filmesDic[filme]) >= 2):
-                    recommendations.append((filme, neighborRatings[filme]))
+                    conteudo = filmesDic[filme]
+                    recommendations.append((filme, neighborRatings[filme], conteudo["genero"]))
         recommendations = sorted(recommendations,
                             key=lambda filmeTuple: filmeTuple[1],
                             reverse = True)
     kVizinhos.insert(0, ("Seus matchs de filmes",))
-    recommendations.insert(0, ("Recomendações", "Notas"))
+    recommendations.insert(0, ("Recomendações", "Notas","Gêneros"))
     return recommendations, kVizinhos
 
 def MovieRec(username, movies, notas):
